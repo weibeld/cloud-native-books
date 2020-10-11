@@ -5,7 +5,7 @@ kubernetes-up-and-running:
   publisher: oreilly
   year: 2019
   url: https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523/
-  isbn: ISBN 9781492046530
+  isbn: 9781492046530
   pages: 278
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=jVGGLLeMVT0ElkyHHkEYVU8LlEaHGcjHxDNaI2TbwQG03sSJJqnX6XiOO1XnD9BN0+35oA8QweIz27WGyHbbp4jZpgfKhqdvjBKKjVuvMiHKP8m4BlthPDTlqOTYobvfrFSk2icyvqCX2ngc24CNcXTgwmsBXTvBw1Iwu0fT3cA=
 kubernetes-best-practices:
@@ -14,7 +14,7 @@ kubernetes-best-practices:
   publisher: oreilly
   year: 2019
   url: https://www.oreilly.com/library/view/kubernetes-best-practices/9781492056461/
-  isbn: ISBN 9781492056478
+  isbn: 9781492056478
   pages: 268
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=K4U2EsQyCTKv21V7JZeVIWjNeqM7XF2sTsvppEE0tyLSSVsaD2KL9SylTQpIIblgphzGuj1BHYKnyXi7usyuwXJPyIYZ9rjo7/b1AoNgImdeqyLeOwMA0f0VING4eCbcR1cL45eyGn9dB5YO3z2UW6S27pt0ej9iohMyC9RvAno=
 kubernetes-patterns:
@@ -23,7 +23,7 @@ kubernetes-patterns:
   publisher: oreilly
   year: 2019
   url: https://www.oreilly.com/library/view/kubernetes-patterns/9781492050278/
-  isbn: ISBN 9781492050285
+  isbn: 9781492050285
   pages: 266
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=Mkz4lBKPZ/HIqsrV8KNz5BYqQDRzOJBi9Vo9CS8+Fy3Tj18md+pWvGPJPZzuYLodtWONIKati4mL4H8K61NOgF1Mk8HCRdqJe+7pGHEdJOxxeNvprEpMv78ibLbHRuY9kWWiCh3KwtKGgN2pfjJx6ozIJgAm+SQAF9SgvEkXy40=
 cloud-native-devops-with-kubernetes:
@@ -32,7 +32,7 @@ cloud-native-devops-with-kubernetes:
   publisher: oreilly
   year: 2019
   url: https://www.oreilly.com/library/view/cloud-native-devops/9781492040750/
-  isbn: ISBN 9781492040767
+  isbn: 9781492040767
   pages: 346
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=fqe3XoySE5rWMdtJ83LL7WPeypeU0SsHtlyx2Gk0l6+Ydwm8cecKe84O2XeOiZjSxCHjEAqCZ2FIhGY27cpORY54CFvh4R74INiH6SV/n2ZY1vvYWlqbWKFE3j+mHDIjP8ksJnI714WrQ9/WAcfG55KNsGgwiW0npMi4vA9k2Ho=
 programming-kubernetes:
@@ -41,7 +41,7 @@ programming-kubernetes:
   publisher: oreilly
   year:  2019
   url: https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/
-  isbn: ISBN 9781492047100
+  isbn: 9781492047100
   pages: 272
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=sM6TODKIuqNBL64FMV+4ltY82PPBo04amsk7B68rB1l01PrO2eBeNgGfSDNZ1AP0qunp8NpjD96cC/9EW18+tTQ8ETdd0sSWgZfpGiU9h2bpUutUFycilZHd+sgoimRn5McFVNG+aemYujCqsbYfAl1r0Vh2rUSqyuzgWiQ0UZ0=
 istio-up-and-running:
@@ -50,7 +50,7 @@ istio-up-and-running:
   publisher: oreilly
   year: 2019
   url: https://www.oreilly.com/library/view/istio-up-and/9781492043775/
-  isbn: ISBN 9781492043782
+  isbn: 9781492043782
   pages: 272
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=EOeZ41UXrPTGcE7jHDroIJc/f2rrzMRyl7wbVx/hVbKG3yvJu/SccTVp0r3KKqTQL1jaYmQFLZq127x60YyddZNVFOsW1zS6UW0DiRIuyadEWBCZxR74nhGPYBrXlpDXW5FByCdxVLqMOojDUoNTt7anQEOUR9pR6Z54TRfXPDE=
 container-security:
@@ -59,7 +59,7 @@ container-security:
   publisher: oreilly
   year: 2020
   url: https://www.oreilly.com/library/view/container-security/9781492056690/
-  isbn: ISBN 9781492056706
+  isbn: 9781492056706
   pages: 200
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=DoEO6QYV/FsngGwcUoDgjPQ+lBYD/eoh5OZvO3JeWsxF1k8ErkCrPJzs35YUPYKgZ7N4jwTRssmXXnxMyZNWZlRLIGe9Eqg9Thw/KSalF/g1V7wIFBwjOcPLdePsHMcCl5KxVLwsSyz0OnZkr8+FPbZf9ZHCjICWEXCGTuyH5ns=
 cloud-native-infrastructure:
@@ -68,7 +68,7 @@ cloud-native-infrastructure:
   publisher: oreilly
   year: 2017
   url: https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/
-  isbn: ISBN 9781491984307
+  isbn: 9781491984307
   pages: 160
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=NqqEJwmTuHtbxm2nGvDs3NpXaU+ZRmBsfdbV1N/LudAFThJoksJC8ltQTjjok6/QwQd3Vihvka2erRPFxLO3hVjDUmFYX4PSPytfFfui3GKfAu7Cvi+BPXZoE53jDEmCL+82sa5eNsS5sdk6pOhe//enr+mwjbMWXVTnWmtwc1Y=
 designing-distributed-systems:
@@ -77,7 +77,7 @@ designing-distributed-systems:
   publisher: oreilly
   year: 2018
   url: https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/
-  isbn: ISBN 9781491983645
+  isbn: 9781491983645
   pages: 166
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=NjZLNIJJ0ZICRWi5VjzJ4A35ZxtJGywmHHwBGHhFkhjtahzEP00dSMUKWBU+tka5oqdfYNNqZoafrAKAd3KmjPAS7beV8mZtucq7kWzFpQ9TP0KlGvnpiuKa8OXgHDuW6V1fOGDCVxcCa2bXEjlru7WZPsIuCkJTA6GTcKpjI6w=
 infrastructure-as-code:
@@ -87,7 +87,7 @@ infrastructure-as-code:
   publisher: oreilly
   year: 2020
   url: https://www.oreilly.com/library/view/infrastructure-as-code/9781098114664/
-  isbn: ISBN 9781098114671
+  isbn: 9781098114671
   img: https://learning.oreilly.com/library/cover/9781098114664/250w/
 building-secure-and-reliable-systems:
   title: Building Secure and Reliable Systems
@@ -95,7 +95,7 @@ building-secure-and-reliable-systems:
   publisher: oreilly
   year: 2020
   url: https://www.oreilly.com/library/view/building-secure-and/9781492083115/
-  isbn: ISBN 9781492083122
+  isbn: 9781492083122
   pages: 558
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=qGhDphhDscEUH1p5mL1Hm6LCadLuj5aDKzja95AKoUTP2ebmF8OXJkl9UY9CQm3jgdRufvnJTGumneyGmIyyqgyaq7oXk1AOMDazrM6bUEk47Zxx3oIQ++WZLl7jHDhSxhE3B5xOurxCpFAUrzGSrIwrNXXTk3zdoplT/Ha7Tlk=
 cloud-native-data-center-networking:
@@ -104,7 +104,7 @@ cloud-native-data-center-networking:
   publisher: oreilly
   year: 2019
   url: https://www.oreilly.com/library/view/cloud-native-data/9781492045595/
-  isbn: ISBN 9781492045601
+  isbn: 9781492045601
   pages: 486
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=ZHZj29xykX6mJaEWBFKAj+4HWHiqRttdoUM/vBUglCDCzdYk6hDgo5wAltM3UY/FyZIYBGOMEbmJiGV8/yiAD5knT1lfQPuLg3qo6iDCq3WSUJw8vqse0ZRxhDBKjwCDSOya2FPdy/74BMqRX0kPfx+VytYI8saxmgaEHwQAbQs=
 managing-kubernetes:
@@ -113,7 +113,7 @@ managing-kubernetes:
   publisher: oreilly
   year: 2018
   url: https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/
-  isbn: ISBN 9781492033912
+  isbn: 9781492033912
   pages: 188
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=uHPMaKxhVJRdb+si83fFpej7NV6dHndbcLd3PQ841YfQvQenAHBMfWCSa27Btij8LUnO30UijIxbQlGiOkiW5r9D9qyjrulHwyWpp4JrSxeDOasMOSTL6r63tkIEioYgzKkhRTBSLAyZgMbtzUf6dgfaHWxHKcaZTQU6jLv9qBQ=
 cloud-native:
@@ -122,7 +122,7 @@ cloud-native:
   publisher: oreilly
   year: 2019
   url: https://www.oreilly.com/library/view/cloud-native/9781492053811/
-  isbn: ISBN 9781492053828
+  isbn: 9781492053828
   pages: 232
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=v1t/z3r8KQALb35oH76EbwWiDciFtpfJKWbD1tOa2qO9B+UO/yOLVLd3VEz8oAUWXOUOzpvuyi5KVkslpfS046Lzgs/CFnd5wO8k/opl1JKJ4F+9qO3TffJiS7uN/6E/UrhQp38siaO3mWY0BmH0h2bnF+k+LpRiQSK2hOwCG6s=
 cloud-native-transformation:
@@ -131,7 +131,7 @@ cloud-native-transformation:
   publisher: oreilly
   year: 2019
   url: https://www.oreilly.com/library/view/cloud-native-transformation/9781492048893/
-  isbn: ISBN 9781492048909
+  isbn: 9781492048909
   pages: 540
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=wnjEZ4k7icb18a+Vlv7QwZujGY0uDiLzNgg+NgKzJUHE1ljNT/+IvHjfbkNdFTPQHRB4PLFqa2KMaApQu2fLyApmPf2Ks9nb/g294z/cvya8lTi0ROGV4jnefZ5DriPCaBpe7XZ2bWGeu1S3SlQPuw/y2o6ywpYo/4AxKHYKrjA=
 monolith-to-microservices:
@@ -140,7 +140,7 @@ monolith-to-microservices:
   publisher: oreilly
   year: 2019
   url: https://www.oreilly.com/library/view/monolith-to-microservices/9781492047834/
-  isbn: ISBN 9781492047841
+  isbn: 9781492047841
   pages: 272
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=QOtq+vdJn4G43TBEXBVwXa6JrIJVaTaRc3PYbd/HOgbB2d0yn/1/96IE68vL9TPmTl0FatJXibo3kLf+kDE/sczC198vWo05d5Fl+YgLtsCg9pnvsrSXVTX6UuoTqrv00+/cPJZq3emYdIpO6RI+eF84xRqgd2TVSnd7yUbGMyk=
 learning-coredns:
@@ -149,7 +149,7 @@ learning-coredns:
   publisher: oreilly
   year: 2019
   url: https://www.oreilly.com/library/view/learning-coredns/9781492047957/
-  isbn: ISBN 9781492047964
+  isbn: 9781492047964
   pages: 206
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=EjTrQDyZwCLSLJNpWnq9ApzyLQGS1Kp+5nB+5pbIqYNXrQhp6NMmXV7oMzvHj7j6YVO7l13apKhzc/rCGFHk1MaelD6SuToQgSCUT17hdLkxw1vGOiO6Y/tNO3Rp9n8U4cd3QpxiiqOpvIeW9iR9QoXkHVD5hHkKlcsJgiPDEck=
 learning-dapr:
@@ -158,7 +158,7 @@ learning-dapr:
   publisher: oreilly
   year: 2020
   url: https://www.oreilly.com/library/view/learning-dapr/9781492072416/
-  isbn: ISBN 9781492072423
+  isbn: 9781492072423
   pages: 218
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=t7Th9aEdKgqce6RdI9i3YPVYmLyNBlDkB7hr4w+PCl4W5KpjTccUv70IPRzMKXVM3A1W800lHdAe09vnJT1Zkp8j2dEA4ztL0D7xfz1kX9gQZM5+AElCXCvWnFtV8DsjW1wy8hBvi1BNzEbKA0rZBfXwh9yxkztU+Dvp2k1p5R0=
 grpc-up-and-running:
@@ -167,7 +167,7 @@ grpc-up-and-running:
   publisher: oreilly
   year: 2020
   url: https://www.oreilly.com/library/view/grpc-up-and/9781492058328/
-  isbn: ISBN 9781492058335
+  isbn: 9781492058335
   pages: 204
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=QA9KTQQKpIgTgfrttB1PVy7z3ymJCGjoeZ2RGSCEUJZ/IL9IS6O8H6ROMXJM/uu6JtxBwZykjFkHJn2LxCgfNN4swTR5UV80xxiaGup0jZq2Jon+DRA+PRwul12bsUmvVF1RXcSKpyUDqheX0x2+trBMyiDEu9lWZlQlOn4YGM8=
 terraform-up-and-running:
@@ -177,7 +177,7 @@ terraform-up-and-running:
   publisher: oreilly
   year: 2019
   url: https://www.oreilly.com/library/view/terraform-up/9781492046899/
-  isbn: ISBN 9781492046905
+  isbn: 9781492046905
   pages: 368
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=w/E/JiokzA/xEmy46ydtpqHSNzMkMFDaFCTZvyBJ3KmXVES3pLPK0nrPw5F8hrz4gHmLIej7vCXiLx8mCipi/E/CO0oOwhspDN+lMz1/FtXLNWLuMz3Cqh2GnLh6nh1GXCTXWctMOIyxuWxB/z1zXYZYzRxvngMW4uD0gpHdMBE=
 kubernetes-operators:
@@ -186,7 +186,7 @@ kubernetes-operators:
   publisher: oreilly
   year: 2020
   url: https://www.oreilly.com/library/view/kubernetes-operators/9781492048039/
-  isbn: ISBN 9781492048046
+  isbn: 9781492048046
   pages: 156
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=OykhWPREVvWtbd0xm9KrSa5R3AEJviGtZiNBlejCukPsFFYiqmFYWyNaiTWKNOdI416/tVytuGEC5BX9qE5WnqpCXRCIqOZvk0NSfNPGlO0yqD/u8YwuWfzjLqzBuHsiDmYOmwQxmVTW/XsVrupS12XShK9Uy7Wr/ssfaVoQrQE=
 building-microservices:
@@ -196,7 +196,7 @@ building-microservices:
   publisher: oreilly
   year: 2021
   url: https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/
-  isbn: ISBN 9781492034025
+  isbn: 9781492034025
   img: https://learning.oreilly.com/library/cover/9781492034018/250w/
 building-event-driven-microservices:
   title: Building Event-Driven Microservices
@@ -204,7 +204,7 @@ building-event-driven-microservices:
   publisher: oreilly
   year: 2020
   url: https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/
-  isbn: ISBN 9781492057895
+  isbn: 9781492057895
   pages: 324
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=xaJt7GgBcBeSj7pkeXrW+GnU95uX+E86DqvT0MKo8oKNPNYMStntc+sxl+vf2zi22wJDUW2F5HxWmGeEGG3iPmQZm/1G9uD9V56XA/nKitwIxg0C1srMj+vk4BBMr/3ri31fTEiTO6lvVQHLyxPvXUZynZQbynTS+5McLzr9BbU=
 distributed-tracing-in-practice:
@@ -213,7 +213,7 @@ distributed-tracing-in-practice:
   publisher: oreilly
   year: 2020
   url: https://www.oreilly.com/library/view/distributed-tracing-in/9781492056621/
-  isbn: ISBN 9781492056638
+  isbn: 9781492056638
   pages: 330
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=hSUjgbVPr+Bg4uP6ndDu1/vFl9XkHBJVo8rAkKTyGsTIyhaXsikWb59WkBC2nNxQTGZHWxgk73vB2qAZuHv69Oy3WXmZfiJtwVaEz0pIK4xRYQp1Y6Av8+Xn6gvruKaZrLv75YHTo7G/5kmMMyMNXrtbmwCyo/ootHWllTzew5A=
 production-ready-microservices:
@@ -222,7 +222,7 @@ production-ready-microservices:
   publisher: oreilly
   year: 2016
   url: https://www.oreilly.com/library/view/production-ready-microservices/9781491965962/
-  isbn: ISBN 9781491965979
+  isbn: 9781491965979
   pages: 172
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=EvzLGrJPxNm8pQF1pLwYUq6HalolTZaoMUuf0zCjf5K5n8Wmi7DKyZsCPPc1s3zaaTtjqHnaiDG9vGAgrudQaCWun3Dw06GBijhtTByKhHCTCQfWk4sbU/GSgjOZdxsATfvMPuV3AeL8TcsqV6iIfTQL+oeQ+1dG9G0ax1A6jTE=
 microservice-architecture:
@@ -231,7 +231,7 @@ microservice-architecture:
   publisher: oreilly
   year: 2016
   url: https://www.oreilly.com/library/view/microservice-architecture/9781491956328/
-  isbn: ISBN 9781491956250
+  isbn: 9781491956250
   pages: 146
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=fEbzF/3vZABLnnQPO7N6RWhQoPds16BMmMPOqwZYf1IYPbjni3eViQ8PumZJwYV8ObuZeFvU+hw+9rj4epTRYEdcSbzLLYN3ZltjTSv8RI8Xsss7ZaL8+WrQdN+2HrBEGFV3wT+P52LTBjhVUvlRTPLz3w8/iWy8jN/a+BJUwNs=
 building-evolutionary-architectures:
@@ -240,7 +240,7 @@ building-evolutionary-architectures:
   publisher: oreilly
   year: 2017
   url: https://www.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/
-  isbn: ISBN 9781491986363
+  isbn: 9781491986363
   pages: 190
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=ra0aOFbgpWgLeUz2ZFPMmuoKIK+NGko7e1JB7ZdIZmfJeBcJP+cK3sXahTY8mYmmZaqYjv43w4TjT5K981IZS3yAOgs4K74tDwx1MY8+8Y3nvHw+j2feJ6Gqvat2onkD3WoQyCY1o40rbzBZJFp/20TQfBEb1PkLLov7SCD4e9Q=
 site-reliability-engineering:
@@ -249,7 +249,7 @@ site-reliability-engineering:
   publisher: oreilly
   year: 2016
   url: https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/
-  isbn: ISBN 9781491929124
+  isbn: 9781491929124
   pages: 552
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=Y6zTgHqAVu3Gd8Nf3j0SxqFiGPcyYq01azux3ucIRJ3frnera5rSNMHfHwKC/avYidxTd0ZEY3UJe28f8ga+px28lcJLZGomvtojhVH6q1IsQsneEUq63L/eg1Wy+wT90qX90bQPDFeLtFKzg13ybK0QU+f6MOfJuYvD7KaeTkY=
 microservices-up-and-running:
@@ -266,14 +266,14 @@ kubernetes-in-action:
   publisher: manning
   year: 2021
   url: https://www.manning.com/books/kubernetes-in-action-second-edition
-  isbn: ISBN 9781617297618
+  isbn: 9781617297618
   img: https://drek4537l1klr.cloudfront.net/luksa3/Figures/cover.jpg
 core-kubernetes:
   title: Core Kubernetes
   publisher: manning
   year: 2021
   url: https://www.manning.com/books/core-kubernetes
-  isbn: ISBN 9781617297557
+  isbn: 9781617297557
   img: https://drek4537l1klr.cloudfront.net/love/Figures/cover.jpg
 gitops-and-kubernetes:
   title: GitOps and Kubernetes
@@ -281,7 +281,7 @@ gitops-and-kubernetes:
   publisher: manning
   year: 2020
   url: https://www.manning.com/books/gitops-and-kubernetes
-  isbn: ISBN 9781617297274
+  isbn: 9781617297274
   img: https://drek4537l1klr.cloudfront.net/yuen/Figures/cover.jpg
 docker-in-action:
   title: Docker in Action
@@ -289,7 +289,7 @@ docker-in-action:
   publisher: manning
   year: 2019
   url: https://www.manning.com/books/docker-in-action-second-edition
-  isbn: ISBN 9781617294761
+  isbn: 9781617294761
   pages: 336
   img: https://drek4537l1klr.cloudfront.net/nickoloff2/Figures/cover.jpg
 istio-in-action:
@@ -297,14 +297,14 @@ istio-in-action:
   publisher: manning
   year: 2021
   url: https://www.manning.com/books/istio-in-action
-  isbn: ISBN 9781617295829
+  isbn: 9781617295829
   img: https://drek4537l1klr.cloudfront.net/posta2/Figures/cover.jpg
 microservices-patterns:
   title: Microservices Patterns
   publisher: manning
   year: 2018
   url: https://www.manning.com/books/microservices-patterns
-  isbn: ISBN 9781617294549
+  isbn: 9781617294549
   pages: 520
   img: https://drek4537l1klr.cloudfront.net/richardson3/Figures/cover.jpg
 docker-in-practice:
@@ -314,14 +314,14 @@ docker-in-practice:
   year: 2019
   url: https://www.manning.com/books/docker-in-practice-second-edition
   pages: 384
-  isbn: ISBN 9781617294808
+  isbn: 9781617294808
   img: https://drek4537l1klr.cloudfront.net/miell2/Figures/cover.jpg
 learn-kubernetes-in-a-month-of-lunches:
   title: Learn Kubernetes in a Month of Lunches
   publisher: manning
   year: 2021
   url: https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches
-  isbn: ISBN 9781617297984
+  isbn: 9781617297984
   img: https://drek4537l1klr.cloudfront.net/stoneman2/Figures/cover.jpg
 learn-docker-in-a-month-of-lunches:
   title: Learn Docker in a Month of Lunches
@@ -329,7 +329,7 @@ learn-docker-in-a-month-of-lunches:
   year: 2020
   url: https://www.manning.com/books/learn-docker-in-a-month-of-lunches
   pages: 464
-  isbn: ISBN 9781617297052
+  isbn: 9781617297052
   img: https://images.manning.com/360/480/resize/book/6/bf788ca-9b2a-463e-ba15-9cb7009131cc/Stoneman_Docker_hires.png
 bootstrapping-microservices-with-docker-kubernetes-and-terraform:
   title: Bootstrapping Microservices with Docker, Kubernetes, and Terraform
@@ -337,21 +337,21 @@ bootstrapping-microservices-with-docker-kubernetes-and-terraform:
   publisher: manning
   year: 2021
   url: https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform
-  isbn: ISBN 9781617297212
+  isbn: 9781617297212
   img: https://drek4537l1klr.cloudfront.net/davis4/Figures/cover.jpg
 terraform-in-action:
   title: Terraform in Action
   publisher: manning
   year: 2021
   url: https://www.manning.com/books/terraform-in-action
-  isbn: ISBN 9781617296895
+  isbn: 9781617296895
   img: https://drek4537l1klr.cloudfront.net/winkler/Figures/cover.jpg
 microservices-security-in-action:
   title: Microservices Security in Action
   publisher: manning
   year: 2020
   url: https://www.manning.com/books/microservices-security-in-action
-  isbn: ISBN 9781617295959
+  isbn: 9781617295959
   pages: 616
   img: https://images.manning.com/book/6/4cf7d31-fe33-426f-be39-fda5bfbf4191/Siriwardena-MS-HI.png
 api-design-patterns:
@@ -359,7 +359,7 @@ api-design-patterns:
   publisher: manning
   year: 2021
   url: https://www.manning.com/books/api-design-patterns
-  isbn: ISBN 9781617295850
+  isbn: 9781617295850
   img: https://drek4537l1klr.cloudfront.net/geewax3/Figures/cover.jpg
 cloud-native-patterns:
   title: Cloud Native Patterns
@@ -367,7 +367,7 @@ cloud-native-patterns:
   publisher: manning
   year: 2019
   url: https://www.manning.com/books/cloud-native-patterns
-  isbn: ISBN 9781617294297
+  isbn: 9781617294297
   pages: 400
   img: https://drek4537l1klr.cloudfront.net/cdavis/Figures/cover.jpg
 microservices-in-action:
@@ -375,7 +375,7 @@ microservices-in-action:
   publisher: manning
   year: 2018
   url: https://www.manning.com/books/microservices-in-action
-  isbn:  ISBN 9781617294457
+  isbn: 9781617294457
   pages: 392
   img: https://drek4537l1klr.cloudfront.net/bruce/Figures/cover.jpg
 api-security-in-action:
@@ -383,14 +383,14 @@ api-security-in-action:
   publisher: manning
   year: 2020
   url: https://www.manning.com/books/api-security-in-action
-  isbn: ISBN 9781617296024
+  isbn: 9781617296024
   img: https://drek4537l1klr.cloudfront.net/madden/Figures/cover.jpg
 the-design-of-web-apis:
   title: The Design of Web APIs
   publisher: manning
   year: 2019
   url: https://www.manning.com/books/the-design-of-web-apis
-  isbn: ISBN 9781617295102
+  isbn: 9781617295102
   pages: 392
   img: https://drek4537l1klr.cloudfront.net/lauret/Figures/cover.jpg
 go-in-action:
@@ -398,7 +398,7 @@ go-in-action:
   publisher: manning
   year: 2015
   url: https://www.manning.com/books/go-in-action
-  isbn: ISBN 9781617291784
+  isbn: 9781617291784
   pages: 264
   img: https://drek4537l1klr.cloudfront.net/ketelsen/Figures/cover.jpg
 go-in-practice:
@@ -406,7 +406,7 @@ go-in-practice:
   publisher: manning
   year: 2016
   url: https://www.manning.com/books/go-in-practice
-  isbn: ISBN 9781633430075
+  isbn: 9781633430075
   pages: 312
   img: https://drek4537l1klr.cloudfront.net/butcher/Figures/cover.jpg
 google-cloud-platform-in-action:
@@ -414,7 +414,7 @@ google-cloud-platform-in-action:
   publisher: manning
   year: 2018
   url: https://www.manning.com/books/google-cloud-platform-in-action
-  isbn: ISBN 9781617293528
+  isbn: 9781617293528
   pages: 632
   img: https://drek4537l1klr.cloudfront.net/geewax2/Figures/cover.jpg
 amazon-web-services-in-action:
@@ -423,7 +423,7 @@ amazon-web-services-in-action:
   publisher: manning
   year: 2018
   url: https://www.manning.com/books/amazon-web-services-in-action-second-edition
-  isbn: ISBN 9781617295119
+  isbn: 9781617295119
   pages: 528
   img: https://drek4537l1klr.cloudfront.net/wittig4/Figures/cover.jpg
 learn-amazon-web-services-in-a-month-of-lunches:
@@ -431,7 +431,7 @@ learn-amazon-web-services-in-a-month-of-lunches:
   publisher: manning
   year: 2017
   url: https://www.manning.com/books/learn-amazon-web-services-in-a-month-of-lunches
-  isbn: ISBN 9781617294440
+  isbn: 9781617294440
   pages: 328
   img: https://drek4537l1klr.cloudfront.net/clinton2/Figures/cover.jpg
 securing-devops:
@@ -440,7 +440,7 @@ securing-devops:
   publisher: manning
   year: 2018
   url: https://www.manning.com/books/securing-devops
-  isbn: ISBN 9781617294136
+  isbn: 9781617294136
   pages: 384
   img: https://drek4537l1klr.cloudfront.net/vehent/Figures/cover.jpg
 aws-security:
@@ -448,49 +448,49 @@ aws-security:
   publisher: manning
   year: 2021
   url: https://www.manning.com/books/aws-security
-  isbn: ISBN 9781617297335
+  isbn: 9781617297335
 getting-started-with-kubernetes:
   title: Getting Started with Kubernetes
   subtitle: With examples in Google Kubernetes Engine
   publisher: manning
   year: 2021
   url: https://www.manning.com/books/getting-started-with-kubernetes
-  isbn: ISBN 9781617297175
+  isbn: 9781617297175
   img: https://drek4537l1klr.cloudfront.net/denniss/Figures/cover.jpg
 software-telemetry:
   title: Software Telemetry
   publisher: manning
   year: 2021
   url: https://www.manning.com/books/software-telemetry
-  isbn: ISBN 9781617298141
+  isbn: 9781617298141
   img: https://drek4537l1klr.cloudfront.net/riedesel/Figures/cover.jpg
 unified-logging-with-fluentd:
   title: Unified Logging with Fluentd
   publisher: manning
   year: 2021
   url: https://www.manning.com/books/unified-logging-with-fluentd
-  isbn: ISBN 9781617298356
+  isbn: 9781617298356
   img: https://drek4537l1klr.cloudfront.net/wilkins/Figures/cover.jpg
 grokking-streaming-systems:
   title: Grokking Streaming Systems
   publisher: manning
   year: 2021
   url: https://www.manning.com/books/grokking-streaming-systems
-  isbn: ISBN 9781617297304
+  isbn: 9781617297304
   img: https://drek4537l1klr.cloudfront.net/fischerj/Figures/cover.jpg
 cloud-operations:
   title: Cloud Operations
   publisher: manning
   year: 2021
   url: https://www.manning.com/books/cloud-operations
-  isbn: ISBN 9781617296833
+  isbn: 9781617296833
   img: https://drek4537l1klr.cloudfront.net/alessandrini/Figures/cover.jpg
 git-in-practice:
   title: Git in Practice
   publisher: manning
   year: 2014
   url: https://www.manning.com/books/git-in-practice
-  isbn: ISBN 9781617291975
+  isbn: 9781617291975
   pages: 272
   img: https://drek4537l1klr.cloudfront.net/mcquaid/Figures/cover.jpg
 learn-git-in-a-month-of-lunches:
@@ -498,7 +498,7 @@ learn-git-in-a-month-of-lunches:
   publisher: manning
   year: 2015
   url: https://www.manning.com/books/learn-git-in-a-month-of-lunches
-  isbn: ISBN 9781617292415
+  isbn: 9781617292415
   pages: 376
   img: https://drek4537l1klr.cloudfront.net/umali/Figures/cover.jpg
 graphql-in-action:
@@ -506,5 +506,5 @@ graphql-in-action:
   publisher: manning
   year: 2020	
   url: https://www.manning.com/books/graphql-in-action
-  isbn: ISBN 9781617295683
+  isbn: 9781617295683
   img: https://drek4537l1klr.cloudfront.net/buna/Figures/cover.jpg
