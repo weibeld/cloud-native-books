@@ -112,9 +112,7 @@ infrastructure-as-code:
   subtitle: Dynamic Systems for the Cloud Age
   edition: 2
   publisher: oreilly
-  date:
-    year: 2020
-    month: 12
+  future: true
   url: https://www.oreilly.com/library/view/infrastructure-as-code/9781098114664/
   isbn: 9781098114671
   img: https://learning.oreilly.com/library/cover/9781098114664/250w/
@@ -256,9 +254,7 @@ building-microservices:
   subtitle: Designing Fine-Grained Systems
   edition: 2
   publisher: oreilly
-  date:
-    year: 2021
-    month: 7
+  future: true
   url: https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/
   isbn: 9781492034025
   img: https://learning.oreilly.com/library/cover/9781492034018/250w/
@@ -338,9 +334,7 @@ microservices-up-and-running:
   title: Microservices Up & Running
   subtitle: A Step-by-Step Guide to Building a Microservice Architecture
   publisher: oreilly
-  date:
-    year: 2020
-    month: 11
+  future: true
   url: https://www.oreilly.com/library/view/microservices-up-and/9781492075448/
   isbn: 9781492075455
   img: https://learning.oreilly.com/library/cover/9781492075448/250w/
@@ -348,16 +342,14 @@ kubernetes-in-action:
   title: Kubernetes in Action
   edition: 2
   publisher: manning
-  date:
-    year: 2021
+  future: true
   url: https://www.manning.com/books/kubernetes-in-action-second-edition
   isbn: 9781617297618
   img: https://drek4537l1klr.cloudfront.net/luksa3/Figures/cover.jpg
 core-kubernetes:
   title: Core Kubernetes
   publisher: manning
-  date:
-    year: 2021
+  future: true
   url: https://www.manning.com/books/core-kubernetes
   isbn: 9781617297557
   img: https://drek4537l1klr.cloudfront.net/love/Figures/cover.jpg
@@ -365,8 +357,7 @@ gitops-and-kubernetes:
   title: GitOps and Kubernetes
   subtitle: Continuous Deployment with Argo CD, Jenkins X, and Flux
   publisher: manning
-  date:
-    year: 2020
+  future: true
   url: https://www.manning.com/books/gitops-and-kubernetes
   isbn: 9781617297274
   img: https://drek4537l1klr.cloudfront.net/yuen/Figures/cover.jpg
@@ -385,8 +376,7 @@ docker-in-action:
 istio-in-action:
   title: Istio in Action
   publisher: manning
-  date:
-    year: 2021
+  future: true
   url: https://www.manning.com/books/istio-in-action
   isbn: 9781617295829
   img: https://drek4537l1klr.cloudfront.net/posta2/Figures/cover.jpg
@@ -416,8 +406,7 @@ docker-in-practice:
 learn-kubernetes-in-a-month-of-lunches:
   title: Learn Kubernetes in a Month of Lunches
   publisher: manning
-  date:
-    year: 2021
+  future: true
   url: https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches
   isbn: 9781617297984
   img: https://drek4537l1klr.cloudfront.net/stoneman2/Figures/cover.jpg
@@ -436,16 +425,14 @@ bootstrapping-microservices-with-docker-kubernetes-and-terraform:
   title: Bootstrapping Microservices with Docker, Kubernetes, and Terraform
   subtitle: A project-based guide
   publisher: manning
-  date:
-    year: 2021
+  future: true
   url: https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform
   isbn: 9781617297212
   img: https://drek4537l1klr.cloudfront.net/davis4/Figures/cover.jpg
 terraform-in-action:
   title: Terraform in Action
   publisher: manning
-  date:
-    year: 2021
+  future: true
   url: https://www.manning.com/books/terraform-in-action
   isbn: 9781617296895
   img: https://drek4537l1klr.cloudfront.net/winkler/Figures/cover.jpg
@@ -463,8 +450,7 @@ microservices-security-in-action:
 api-design-patterns:
   title: API Design Patterns
   publisher: manning
-  date:
-    year: 2021
+  future: true
   url: https://www.manning.com/books/api-design-patterns
   isbn: 9781617295850
   img: https://drek4537l1klr.cloudfront.net/geewax3/Figures/cover.jpg
@@ -494,8 +480,7 @@ microservices-in-action:
 api-security-in-action:
   title: API Security in Action
   publisher: manning
-  date:
-    year: 2020
+  future: true
   url: https://www.manning.com/books/api-security-in-action
   isbn: 9781617296024
   img: https://drek4537l1klr.cloudfront.net/madden/Figures/cover.jpg
@@ -581,8 +566,7 @@ securing-devops:
 aws-security:
   title: AWS Security
   publisher: manning
-  date:
-    year: 2021
+  future: true
   url: https://www.manning.com/books/aws-security
   isbn: 9781617297335
   img: https://images.manning.com/book/9/bd88709-6462-4402-9bcc-f47617198574/Shields-AWS-MEAP-HI.png
@@ -590,40 +574,35 @@ getting-started-with-kubernetes:
   title: Getting Started with Kubernetes
   subtitle: With examples in Google Kubernetes Engine
   publisher: manning
-  date:
-    year: 2021
+  future: true
   url: https://www.manning.com/books/getting-started-with-kubernetes
   isbn: 9781617297175
   img: https://drek4537l1klr.cloudfront.net/denniss/Figures/cover.jpg
 software-telemetry:
   title: Software Telemetry
   publisher: manning
-  date:
-    year: 2021
+  future: true
   url: https://www.manning.com/books/software-telemetry
   isbn: 9781617298141
   img: https://drek4537l1klr.cloudfront.net/riedesel/Figures/cover.jpg
 unified-logging-with-fluentd:
   title: Unified Logging with Fluentd
   publisher: manning
-  date:
-    year: 2021
+  future: true
   url: https://www.manning.com/books/unified-logging-with-fluentd
   isbn: 9781617298356
   img: https://drek4537l1klr.cloudfront.net/wilkins/Figures/cover.jpg
 grokking-streaming-systems:
   title: Grokking Streaming Systems
   publisher: manning
-  date:
-    year: 2021
+  future: true
   url: https://www.manning.com/books/grokking-streaming-systems
   isbn: 9781617297304
   img: https://drek4537l1klr.cloudfront.net/fischerj/Figures/cover.jpg
 cloud-operations:
   title: Cloud Operations
   publisher: manning
-  date:
-    year: 2021
+  future: true
   url: https://www.manning.com/books/cloud-operations
   isbn: 9781617296833
   img: https://drek4537l1klr.cloudfront.net/alessandrini/Figures/cover.jpg
@@ -652,8 +631,7 @@ learn-git-in-a-month-of-lunches:
 graphql-in-action:
   title: GraphQL in Action
   publisher: manning
-  date:
-    year: 2020	
+  future: true
   url: https://www.manning.com/books/graphql-in-action
   isbn: 9781617295683
   img: https://drek4537l1klr.cloudfront.net/buna/Figures/cover.jpg
