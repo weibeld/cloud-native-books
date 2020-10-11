@@ -1,6 +1,18 @@
 kubernetes-up-and-running:
   title: Kubernetes Up & Running
   subtitle: Dive into the Future of Infrastructure
+  publisher: oreilly
+  date:
+    year: 2017
+    month: 9
+  url: https://www.oreilly.com/library/view/kubernetes-up-and/9781491935668/
+  isbn: 9781491935675
+  asin: 1491935677
+  pages: 272
+  img: https://images-na.ssl-images-amazon.com/images/I/51Wf2nQa43L._SX379_BO1,204,203,200_.jpg
+kubernetes-up-and-running-2nd-edition:
+  title: Kubernetes Up & Running
+  subtitle: Dive into the Future of Infrastructure
   edition: 2
   publisher: oreilly
   date:
@@ -108,6 +120,18 @@ designing-distributed-systems:
   pages: 166
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=NjZLNIJJ0ZICRWi5VjzJ4A35ZxtJGywmHHwBGHhFkhjtahzEP00dSMUKWBU+tka5oqdfYNNqZoafrAKAd3KmjPAS7beV8mZtucq7kWzFpQ9TP0KlGvnpiuKa8OXgHDuW6V1fOGDCVxcCa2bXEjlru7WZPsIuCkJTA6GTcKpjI6w=
 infrastructure-as-code:
+  title: Infrastructure as Code
+  subtitle: Managing Servers in the Cloud
+  publisher: oreilly
+  date:
+    year: 2016
+    month: 6
+  url: https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/
+  isbn: 9781491924358
+  asin: 1491924357
+  pages: 362
+  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=eGJNBLTmMtAoJfeEOa4+sC2+C6s5tPt26Oubyx3usXwFin/i/dm7VoXATRtqjb57bLE83w8U97ZJIRilaYW4B4UAruA7Z9darWNw0Mue7m9N1lVdLwyIGggKhu7QsOUmIEUxiqJVXcwgoosw+N4fG8eyHxlyxqwQg7YnHmeRaR0=
+infrastructure-as-code-2nd-edition:
   title: Infrastructure as Code
   subtitle: Dynamic Systems for the Cloud Age
   edition: 2
@@ -227,6 +251,18 @@ grpc-up-and-running:
 terraform-up-and-running:
   title: Terraform Up & Running
   subtitle: Writing Infrastructure as Code
+  publisher: oreilly
+  date:
+    year: 2017
+    month: 3
+  url: https://www.oreilly.com/library/view/terraform-up-and/9781491977071/
+  isbn: 9781491977088
+  asin: 1491977086
+  pages: 206
+  img: https://images-na.ssl-images-amazon.com/images/I/51eFFA5aJ2L._SX379_BO1,204,203,200_.jpg
+terraform-up-and-running-2nd-edition:
+  title: Terraform Up & Running
+  subtitle: Writing Infrastructure as Code
   edition: 2
   publisher: oreilly
   date:
@@ -250,6 +286,18 @@ kubernetes-operators:
   pages: 156
   img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=OykhWPREVvWtbd0xm9KrSa5R3AEJviGtZiNBlejCukPsFFYiqmFYWyNaiTWKNOdI416/tVytuGEC5BX9qE5WnqpCXRCIqOZvk0NSfNPGlO0yqD/u8YwuWfzjLqzBuHsiDmYOmwQxmVTW/XsVrupS12XShK9Uy7Wr/ssfaVoQrQE=
 building-microservices:
+  title: Building Microservices
+  subtitle: Designing Fine-Grained Systems
+  publisher: oreilly
+  date:
+    year: 2015
+    month: 2
+  url: https://www.oreilly.com/library/view/building-microservices/9781491950340/
+  isbn: 9781491950357
+  asin: 1491950358
+  pages: 280
+  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=VfWKdHnEOczNpFWSr+UPOTVxEVP4vraHqSS3wzLoZP8rGdUk7jpUpnrAFvxOZK6N399f/nUeFIkWZJ38wJP6x2ITCr4ZiyRjWVBOQjZzoRuVNyA6lEEo43FnX5B1ymuhJFrl1Gsfeae1/lwW9CMlc2yeIYfC57AvnBzVm72qVe0=
+building-microservices-2nd-edition:
   title: Building Microservices
   subtitle: Designing Fine-Grained Systems
   edition: 2
@@ -340,6 +388,17 @@ microservices-up-and-running:
   img: https://learning.oreilly.com/library/cover/9781492075448/250w/
 kubernetes-in-action:
   title: Kubernetes in Action
+  publisher: manning
+  date:
+    year: 2017
+    month: 12
+  url: https://www.manning.com/books/kubernetes-in-action
+  isbn: 9781617293726
+  asin: 1617293725
+  pages: 624
+  img: https://drek4537l1klr.cloudfront.net/luksa/Figures/cover.jpg
+kubernetes-in-action-2nd-edition:
+  title: Kubernetes in Action
   edition: 2
   publisher: manning
   future: true
@@ -362,6 +421,17 @@ gitops-and-kubernetes:
   isbn: 9781617297274
   img: https://drek4537l1klr.cloudfront.net/yuen/Figures/cover.jpg
 docker-in-action:
+  title: Docker in Action
+  publisher: manning
+  date:
+    year: 2016
+    month: 3
+  url: https://www.manning.com/books/docker-in-action
+  isbn: 9781633430235
+  asin: 1633430235
+  pages: 304
+  img: https://drek4537l1klr.cloudfront.net/nickoloff/Figures/cover.jpg
+docker-in-action-2nd-edition:
   title: Docker in Action
   edition: 2
   publisher: manning
@@ -392,6 +462,17 @@ microservices-patterns:
   pages: 520
   img: https://drek4537l1klr.cloudfront.net/richardson3/Figures/cover.jpg
 docker-in-practice:
+  title: Docker in Practice
+  publisher: manning
+  date:
+    year: 2016
+    month: 4
+  url: https://www.manning.com/books/docker-in-practice
+  pages: 372
+  isbn: 9781617292729
+  asin: 1617292729
+  img: https://drek4537l1klr.cloudfront.net/miell/Figures/cover.jpg
+docker-in-practice-2nd-edition:
   title: Docker in Practice
   edition: 2
   publisher: manning
@@ -529,6 +610,17 @@ google-cloud-platform-in-action:
   pages: 632
   img: https://drek4537l1klr.cloudfront.net/geewax2/Figures/cover.jpg
 amazon-web-services-in-action:
+  title: Amazon Web Services in Action
+  publisher: manning
+  date:
+    year: 2015
+    month: 9
+  url: https://www.manning.com/books/amazon-web-services-in-action
+  isbn: 9781617292880
+  asin: 1617292885
+  pages: 424
+  img: https://drek4537l1klr.cloudfront.net/wittig/Figures/cover.jpg
+amazon-web-services-in-action-2nd-edition:
   title: Amazon Web Services in Action
   edition: 2
   publisher: manning
