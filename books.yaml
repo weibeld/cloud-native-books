@@ -396,7 +396,7 @@ kubernetes-in-action:
   isbn: 9781617293726
   asin: 1617293725
   pages: 624
-  img: https://drek4537l1klr.cloudfront.net/luksa/Figures/cover.jpg
+  img: https://images.manning.com/book/d/c308a90-6ec2-4c20-8b57-087f9f9df05b/Luksa-Kubernetes-HI.png
 kubernetes-in-action-2nd-edition:
   title: Kubernetes in Action
   edition: 2
@@ -404,14 +404,14 @@ kubernetes-in-action-2nd-edition:
   future: true
   url: https://www.manning.com/books/kubernetes-in-action-second-edition
   isbn: 9781617297618
-  img: https://drek4537l1klr.cloudfront.net/luksa3/Figures/cover.jpg
+  img: https://images.manning.com/book/2/7d2e426-8971-4726-b0ff-71fd92ee86b2/Luksa-Kubernetes-2ed-MEAP-HI.png
 core-kubernetes:
   title: Core Kubernetes
   publisher: manning
   future: true
   url: https://www.manning.com/books/core-kubernetes
   isbn: 9781617297557
-  img: https://drek4537l1klr.cloudfront.net/love/Figures/cover.jpg
+  img: https://images.manning.com/book/a/0d353d6-75a3-4ca0-a0cb-adf180b820e8/Vyas-CoreK-MEAP-HI.png
 gitops-and-kubernetes:
   title: GitOps and Kubernetes
   subtitle: Continuous Deployment with Argo CD, Jenkins X, and Flux
@@ -419,7 +419,7 @@ gitops-and-kubernetes:
   future: true
   url: https://www.manning.com/books/gitops-and-kubernetes
   isbn: 9781617297274
-  img: https://drek4537l1klr.cloudfront.net/yuen/Figures/cover.jpg
+  img: https://images.manning.com/book/7/9644052-32e5-48cd-ba4a-fbde0dd25ea0/Yuen-GitOps-MEAP-HI.png
 docker-in-action:
   title: Docker in Action
   publisher: manning
@@ -430,7 +430,7 @@ docker-in-action:
   isbn: 9781633430235
   asin: 1633430235
   pages: 304
-  img: https://drek4537l1klr.cloudfront.net/nickoloff/Figures/cover.jpg
+  img: https://images.manning.com/book/d/5fc68d7-84b1-444a-b46c-6dc4046d3612/Nickoloff-Docker-HI.png
 docker-in-action-2nd-edition:
   title: Docker in Action
   edition: 2
@@ -442,14 +442,14 @@ docker-in-action-2nd-edition:
   isbn: 9781617294761
   asin: 1617294764
   pages: 336
-  img: https://drek4537l1klr.cloudfront.net/nickoloff2/Figures/cover.jpg
+  img: https://images.manning.com/book/9/9a102d1-8e4d-4f20-a095-c60ca54fc5e6/Nickoloff-Docker-2ed-RGB.jpg
 istio-in-action:
   title: Istio in Action
   publisher: manning
   future: true
   url: https://www.manning.com/books/istio-in-action
   isbn: 9781617295829
-  img: https://drek4537l1klr.cloudfront.net/posta2/Figures/cover.jpg
+  img: https://images.manning.com/book/2/af4f618-f704-4bf5-9617-3e2db3e43e58/Psta-Istio-MEAP-HI.png
 microservices-patterns:
   title: Microservices Patterns
   publisher: manning
@@ -460,7 +460,7 @@ microservices-patterns:
   isbn: 9781617294549
   asin: 1617294543
   pages: 520
-  img: https://drek4537l1klr.cloudfront.net/richardson3/Figures/cover.jpg
+  img: https://images.manning.com/book/b/dc43dfc-e43d-419d-b577-3809c6967442/Richardson-MP-HI.png
 docker-in-practice:
   title: Docker in Practice
   publisher: manning
@@ -471,7 +471,7 @@ docker-in-practice:
   pages: 372
   isbn: 9781617292729
   asin: 1617292729
-  img: https://drek4537l1klr.cloudfront.net/miell/Figures/cover.jpg
+  img: https://images.manning.com/book/3/b655d59-805f-4a48-a920-d96a9adcfef6/Miell-Docker-HI.png
 docker-in-practice-2nd-edition:
   title: Docker in Practice
   edition: 2
@@ -483,14 +483,14 @@ docker-in-practice-2nd-edition:
   pages: 384
   isbn: 9781617294808
   asin: 1617294802
-  img: https://drek4537l1klr.cloudfront.net/miell2/Figures/cover.jpg
+  img: https://images.manning.com/book/a/723c64b-6a3e-485b-932a-77b967e91d52/Miell-DockerP-2ed-HI.png
 learn-kubernetes-in-a-month-of-lunches:
   title: Learn Kubernetes in a Month of Lunches
   publisher: manning
   future: true
   url: https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches
   isbn: 9781617297984
-  img: https://drek4537l1klr.cloudfront.net/stoneman2/Figures/cover.jpg
+  img: https://images.manning.com/book/e/89b07ec-830f-4720-a9dc-3a1a51cb00b4/Stoneman_Kubernetes_meap.jpg
 learn-docker-in-a-month-of-lunches:
   title: Learn Docker in a Month of Lunches
   publisher: manning
@@ -501,7 +501,7 @@ learn-docker-in-a-month-of-lunches:
   pages: 464
   isbn: 9781617297052
   asin: 1617297054
-  img: https://images.manning.com/360/480/resize/book/6/bf788ca-9b2a-463e-ba15-9cb7009131cc/Stoneman_Docker_hires.png
+  img: https://images.manning.com/book/6/bf788ca-9b2a-463e-ba15-9cb7009131cc/Stoneman_Docker_hires.png
 bootstrapping-microservices-with-docker-kubernetes-and-terraform:
   title: Bootstrapping Microservices with Docker, Kubernetes, and Terraform
   subtitle: A project-based guide
@@ -509,14 +509,14 @@ bootstrapping-microservices-with-docker-kubernetes-and-terraform:
   future: true
   url: https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform
   isbn: 9781617297212
-  img: https://drek4537l1klr.cloudfront.net/davis4/Figures/cover.jpg
+  img: https://images.manning.com/book/a/6ed9b90-1043-40a9-9d91-d516c75a9196/Davis-BM-MEAP-HI.png
 terraform-in-action:
   title: Terraform in Action
   publisher: manning
   future: true
   url: https://www.manning.com/books/terraform-in-action
   isbn: 9781617296895
-  img: https://drek4537l1klr.cloudfront.net/winkler/Figures/cover.jpg
+  img: https://images.manning.com/book/8/6c58f96-9981-4e1a-acd3-22ce347f78e5/Winkler-Terraform-MEAP-HI.png
 microservices-security-in-action:
   title: Microservices Security in Action
   publisher: manning
@@ -534,7 +534,7 @@ api-design-patterns:
   future: true
   url: https://www.manning.com/books/api-design-patterns
   isbn: 9781617295850
-  img: https://drek4537l1klr.cloudfront.net/geewax3/Figures/cover.jpg
+  img: https://images.manning.com/book/1/2f9d337-ea45-4998-a4a2-3b9b659713d5/Geewax-API-MEAP-HI.png
 cloud-native-patterns:
   title: Cloud Native Patterns
   subtitle: Designing change-tolerant software
@@ -546,7 +546,7 @@ cloud-native-patterns:
   isbn: 9781617294297
   asin: 1617294292
   pages: 400
-  img: https://drek4537l1klr.cloudfront.net/cdavis/Figures/cover.jpg
+  img: https://images.manning.com/book/0/d46d770-17e8-403c-a7a6-a8fc77964963/Davis-CNP-HI.png
 microservices-in-action:
   title: Microservices in Action
   publisher: manning
@@ -557,14 +557,14 @@ microservices-in-action:
   isbn: 9781617294457
   asin: 1617294454
   pages: 392
-  img: https://drek4537l1klr.cloudfront.net/bruce/Figures/cover.jpg
+  img: https://images.manning.com/book/8/809fab1-8912-4fb7-b39e-f49844525807/Bruce-Microservices-HI.png
 api-security-in-action:
   title: API Security in Action
   publisher: manning
   future: true
   url: https://www.manning.com/books/api-security-in-action
   isbn: 9781617296024
-  img: https://drek4537l1klr.cloudfront.net/madden/Figures/cover.jpg
+  img: https://images.manning.com/book/e/60aa678-5a9e-448f-9c00-69fade852e27/Madden-API-MEAP-HI.png
 the-design-of-web-apis:
   title: The Design of Web APIs
   publisher: manning
@@ -575,7 +575,7 @@ the-design-of-web-apis:
   isbn: 9781617295102
   asin: 1617295108
   pages: 392
-  img: https://drek4537l1klr.cloudfront.net/lauret/Figures/cover.jpg
+  img: https://images.manning.com/book/0/b4c8c91-f360-4fb3-bbec-13ab3dd26d68/Lauret-DWAPIs-HI.png
 go-in-action:
   title: Go in Action
   publisher: manning
@@ -586,7 +586,7 @@ go-in-action:
   isbn: 9781617291784
   asin: 1617291781
   pages: 264
-  img: https://drek4537l1klr.cloudfront.net/ketelsen/Figures/cover.jpg
+  img: https://images.manning.com/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png
 go-in-practice:
   title: Go in Practice
   publisher: manning
@@ -597,7 +597,7 @@ go-in-practice:
   isbn: 9781633430075
   asin: 1633430073
   pages: 312
-  img: https://drek4537l1klr.cloudfront.net/butcher/Figures/cover.jpg
+  img: https://images.manning.com/book/4/cd81ad9-b07a-4f57-8aa2-9b4c8cede836/Butcher-GoinP-HI.png
 google-cloud-platform-in-action:
   title: Google Cloud Platform in Action
   publisher: manning
@@ -608,7 +608,7 @@ google-cloud-platform-in-action:
   isbn: 9781617293528
   asin: 1617293520
   pages: 632
-  img: https://drek4537l1klr.cloudfront.net/geewax2/Figures/cover.jpg
+  img: https://images.manning.com/book/b/20ddcc2-7c20-4d7b-aeac-ca11d2db279e/Geewax-GoogleCP-HI.png
 amazon-web-services-in-action:
   title: Amazon Web Services in Action
   publisher: manning
@@ -619,7 +619,7 @@ amazon-web-services-in-action:
   isbn: 9781617292880
   asin: 1617292885
   pages: 424
-  img: https://drek4537l1klr.cloudfront.net/wittig/Figures/cover.jpg
+  img: https://images.manning.com/book/8/41a04cf-5d27-408a-bbf6-35d45f59df9d/Wittig-Amazon-HI.png
 amazon-web-services-in-action-2nd-edition:
   title: Amazon Web Services in Action
   edition: 2
@@ -631,7 +631,7 @@ amazon-web-services-in-action-2nd-edition:
   isbn: 9781617295119
   asin: 1617295116
   pages: 528
-  img: https://drek4537l1klr.cloudfront.net/wittig4/Figures/cover.jpg
+  img: https://images.manning.com/book/2/d645f0a-eb90-4e12-9c3a-dff78fb40bb7/Wittig-Amazon-2ed-HI.png
 learn-amazon-web-services-in-a-month-of-lunches:
   title: Learn Amazon Web Services in a Month of Lunches
   publisher: manning
@@ -642,7 +642,7 @@ learn-amazon-web-services-in-a-month-of-lunches:
   isbn: 9781617294440
   asin: 1617294446
   pages: 328
-  img: https://drek4537l1klr.cloudfront.net/clinton2/Figures/cover.jpg
+  img: https://images.manning.com/book/3/b15abcc-aa86-4699-94bc-5ecc002e66f5/Clinton_AWSMOL_fc.png
 securing-devops:
   title: Securing DevOps
   subtitle: Security in the Cloud
@@ -654,7 +654,7 @@ securing-devops:
   isbn: 9781617294136
   asin: 1617294136
   pages: 384
-  img: https://drek4537l1klr.cloudfront.net/vehent/Figures/cover.jpg
+  img: https://images.manning.com/book/d/87311f5-cf68-4ac2-9074-06940e10dd53/Vehent-SDO-HI.png
 aws-security:
   title: AWS Security
   publisher: manning
@@ -669,35 +669,35 @@ getting-started-with-kubernetes:
   future: true
   url: https://www.manning.com/books/getting-started-with-kubernetes
   isbn: 9781617297175
-  img: https://drek4537l1klr.cloudfront.net/denniss/Figures/cover.jpg
+  img: https://images.manning.com/book/2/48f5810-c8f7-48ed-a999-07208144d0ea/Denniss-GSK-MEAP-HI.png
 software-telemetry:
   title: Software Telemetry
   publisher: manning
   future: true
   url: https://www.manning.com/books/software-telemetry
   isbn: 9781617298141
-  img: https://drek4537l1klr.cloudfront.net/riedesel/Figures/cover.jpg
+  img: https://images.manning.com/book/3/8bf5b30-7a1e-4e60-9e91-08f8c57c7088/Riedesel-ST-MEAP-HI.png
 unified-logging-with-fluentd:
   title: Unified Logging with Fluentd
   publisher: manning
   future: true
   url: https://www.manning.com/books/unified-logging-with-fluentd
   isbn: 9781617298356
-  img: https://drek4537l1klr.cloudfront.net/wilkins/Figures/cover.jpg
+  img: https://images.manning.com/book/f/c6dd304-445a-49aa-aec9-3b7996d8c537/Wilkins-ULF-MEAP-HI.png
 grokking-streaming-systems:
   title: Grokking Streaming Systems
   publisher: manning
   future: true
   url: https://www.manning.com/books/grokking-streaming-systems
   isbn: 9781617297304
-  img: https://drek4537l1klr.cloudfront.net/fischerj/Figures/cover.jpg
+  img: https://images.manning.com/book/3/687e67a-e542-4b80-9d6d-ac4f0d51de75/Grokking_SS_meap_hires.png
 cloud-operations:
   title: Cloud Operations
   publisher: manning
   future: true
   url: https://www.manning.com/books/cloud-operations
   isbn: 9781617296833
-  img: https://drek4537l1klr.cloudfront.net/alessandrini/Figures/cover.jpg
+  img: https://images.manning.com/book/c/1fbdb5e-2490-4c45-a7a3-c27b0dbe7b24/Alessandrini-CO-MEAP-HI.png
 git-in-practice:
   title: Git in Practice
   publisher: manning
@@ -708,7 +708,7 @@ git-in-practice:
   isbn: 9781617291975
   asin: 1617291978
   pages: 272
-  img: https://drek4537l1klr.cloudfront.net/mcquaid/Figures/cover.jpg
+  img: https://images.manning.com/book/9/6dbcd71-a8e9-489b-a353-bc3ca1f76e2d/mcquaid.png
 learn-git-in-a-month-of-lunches:
   title: Learn Git in a Month of Lunches
   publisher: manning
@@ -719,11 +719,11 @@ learn-git-in-a-month-of-lunches:
   isbn: 9781617292415
   asin: 1617292419
   pages: 376
-  img: https://drek4537l1klr.cloudfront.net/umali/Figures/cover.jpg
+  img: https://images.manning.com/book/4/392baa6-650a-4b06-b15f-15b302761a46/Umali_front.png
 graphql-in-action:
   title: GraphQL in Action
   publisher: manning
   future: true
   url: https://www.manning.com/books/graphql-in-action
   isbn: 9781617295683
-  img: https://drek4537l1klr.cloudfront.net/buna/Figures/cover.jpg
+  img: https://images.manning.com/book/c/8ce672a-7642-4ec1-a499-a8d0bbbd467e/Buna-GraphQL-MEAP-HI.png
