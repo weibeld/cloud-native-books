@@ -6,10 +6,10 @@ kubernetes-up-and-running:
     year: 2017
     month: 9
   url: https://www.oreilly.com/library/view/kubernetes-up-and/9781491935668/
+  img: https://learning.oreilly.com/library/cover/9781491935668/2000w/
   isbn: 9781491935675
   asin: 1491935677
   pages: 272
-  img: https://images-na.ssl-images-amazon.com/images/I/51Wf2nQa43L._SX379_BO1,204,203,200_.jpg
 kubernetes-up-and-running-2nd-edition:
   title: Kubernetes Up & Running
   subtitle: Dive into the Future of Infrastructure
@@ -19,10 +19,10 @@ kubernetes-up-and-running-2nd-edition:
     year: 2019
     month: 10
   url: https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523/
+  img: https://learning.oreilly.com/library/cover/9781492046523/2000w/
   isbn: 9781492046530
   asin: 1492046531
   pages: 278
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=jVGGLLeMVT0ElkyHHkEYVU8LlEaHGcjHxDNaI2TbwQG03sSJJqnX6XiOO1XnD9BN0+35oA8QweIz27WGyHbbp4jZpgfKhqdvjBKKjVuvMiHKP8m4BlthPDTlqOTYobvfrFSk2icyvqCX2ngc24CNcXTgwmsBXTvBw1Iwu0fT3cA=
 kubernetes-best-practices:
   title: Kubernetes Best Practices
   subtitle: Blueprints for Building Successful Applications on Kubernetes
@@ -31,10 +31,10 @@ kubernetes-best-practices:
     year: 2019
     month: 11
   url: https://www.oreilly.com/library/view/kubernetes-best-practices/9781492056461/
+  img: https://learning.oreilly.com/library/cover/9781492056461/2000w/
   isbn: 9781492056478
   asin: 1492056472
   pages: 268
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=K4U2EsQyCTKv21V7JZeVIWjNeqM7XF2sTsvppEE0tyLSSVsaD2KL9SylTQpIIblgphzGuj1BHYKnyXi7usyuwXJPyIYZ9rjo7/b1AoNgImdeqyLeOwMA0f0VING4eCbcR1cL45eyGn9dB5YO3z2UW6S27pt0ej9iohMyC9RvAno=
 kubernetes-patterns:
   title: Kubernetes Patterns
   subtitle: Reusable Elements for Designing Cloud-Native Applications
@@ -43,10 +43,10 @@ kubernetes-patterns:
     year: 2019
     month: 4
   url: https://www.oreilly.com/library/view/kubernetes-patterns/9781492050278/
+  img: https://learning.oreilly.com/library/cover/9781492050278/2000w/
   isbn: 9781492050285
   asin: 1492050288
   pages: 266
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=Mkz4lBKPZ/HIqsrV8KNz5BYqQDRzOJBi9Vo9CS8+Fy3Tj18md+pWvGPJPZzuYLodtWONIKati4mL4H8K61NOgF1Mk8HCRdqJe+7pGHEdJOxxeNvprEpMv78ibLbHRuY9kWWiCh3KwtKGgN2pfjJx6ozIJgAm+SQAF9SgvEkXy40=
 cloud-native-devops-with-kubernetes:
   title: Cloud Native DevOps with Kubernetes
   subtitle: Building, Deploying, and Scaling Modern Applications in the Cloud
@@ -55,10 +55,10 @@ cloud-native-devops-with-kubernetes:
     year: 2019
     month: 3
   url: https://www.oreilly.com/library/view/cloud-native-devops/9781492040750/
+  img: https://learning.oreilly.com/library/cover/9781492040750/2000w/
   isbn: 9781492040767
   asin: 1492040762
   pages: 346
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=fqe3XoySE5rWMdtJ83LL7WPeypeU0SsHtlyx2Gk0l6+Ydwm8cecKe84O2XeOiZjSxCHjEAqCZ2FIhGY27cpORY54CFvh4R74INiH6SV/n2ZY1vvYWlqbWKFE3j+mHDIjP8ksJnI714WrQ9/WAcfG55KNsGgwiW0npMi4vA9k2Ho=
 programming-kubernetes:
   title: Programming Kubernetes
   subtitle: Developing Cloud-Native Applications
@@ -67,10 +67,10 @@ programming-kubernetes:
     year:  2019
     month: 7
   url: https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/
+  img: https://learning.oreilly.com/library/cover/9781492047094/2000w/
   isbn: 9781492047100
   asin: 1492047104
   pages: 272
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=sM6TODKIuqNBL64FMV+4ltY82PPBo04amsk7B68rB1l01PrO2eBeNgGfSDNZ1AP0qunp8NpjD96cC/9EW18+tTQ8ETdd0sSWgZfpGiU9h2bpUutUFycilZHd+sgoimRn5McFVNG+aemYujCqsbYfAl1r0Vh2rUSqyuzgWiQ0UZ0=
 istio-up-and-running:
   title: Istio Up & Running
   subtitle: Using a Service Mesh to Connect, Secure, Control, and Observe
@@ -79,10 +79,10 @@ istio-up-and-running:
     year: 2019
     month: 10
   url: https://www.oreilly.com/library/view/istio-up-and/9781492043775/
+  img: https://learning.oreilly.com/library/cover/9781492043775/2000w/
   isbn: 9781492043782
   asin: 1492043788
   pages: 272
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=EOeZ41UXrPTGcE7jHDroIJc/f2rrzMRyl7wbVx/hVbKG3yvJu/SccTVp0r3KKqTQL1jaYmQFLZq127x60YyddZNVFOsW1zS6UW0DiRIuyadEWBCZxR74nhGPYBrXlpDXW5FByCdxVLqMOojDUoNTt7anQEOUR9pR6Z54TRfXPDE=
 container-security:
   title: Container Security
   subtitle: Fundamental Technology Concepts That Protect Containerized Applications
@@ -91,10 +91,10 @@ container-security:
     year: 2020
     month: 4
   url: https://www.oreilly.com/library/view/container-security/9781492056690/
+  img: https://learning.oreilly.com/library/cover/9781492056690/2000w/
   isbn: 9781492056706
   asin: 1492056707
   pages: 200
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=DoEO6QYV/FsngGwcUoDgjPQ+lBYD/eoh5OZvO3JeWsxF1k8ErkCrPJzs35YUPYKgZ7N4jwTRssmXXnxMyZNWZlRLIGe9Eqg9Thw/KSalF/g1V7wIFBwjOcPLdePsHMcCl5KxVLwsSyz0OnZkr8+FPbZf9ZHCjICWEXCGTuyH5ns=
 cloud-native-infrastructure:
   title: Cloud Native Infrastructure
   subtitle: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment
@@ -103,10 +103,10 @@ cloud-native-infrastructure:
     year: 2017
     month: 11
   url: https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/
+  img: https://learning.oreilly.com/library/cover/9781491984291/2000w/
   isbn: 9781491984307
   asin: 1491984309
   pages: 160
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=NqqEJwmTuHtbxm2nGvDs3NpXaU+ZRmBsfdbV1N/LudAFThJoksJC8ltQTjjok6/QwQd3Vihvka2erRPFxLO3hVjDUmFYX4PSPytfFfui3GKfAu7Cvi+BPXZoE53jDEmCL+82sa5eNsS5sdk6pOhe//enr+mwjbMWXVTnWmtwc1Y=
 designing-distributed-systems:
   title: Designing Distributed Systems
   subtitle: Patterns and Paradigms for Scalable, Reliable Services
@@ -115,10 +115,10 @@ designing-distributed-systems:
     year: 2018
     month: 2
   url: https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/
+  img: https://learning.oreilly.com/library/cover/9781491983638/2000w/
   isbn: 9781491983645
   asin: 1491983647
   pages: 166
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=NjZLNIJJ0ZICRWi5VjzJ4A35ZxtJGywmHHwBGHhFkhjtahzEP00dSMUKWBU+tka5oqdfYNNqZoafrAKAd3KmjPAS7beV8mZtucq7kWzFpQ9TP0KlGvnpiuKa8OXgHDuW6V1fOGDCVxcCa2bXEjlru7WZPsIuCkJTA6GTcKpjI6w=
 infrastructure-as-code:
   title: Infrastructure as Code
   subtitle: Managing Servers in the Cloud
@@ -127,10 +127,10 @@ infrastructure-as-code:
     year: 2016
     month: 6
   url: https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/
+  img: https://learning.oreilly.com/library/cover/9781491924334/2000w/
   isbn: 9781491924358
   asin: 1491924357
   pages: 362
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=eGJNBLTmMtAoJfeEOa4+sC2+C6s5tPt26Oubyx3usXwFin/i/dm7VoXATRtqjb57bLE83w8U97ZJIRilaYW4B4UAruA7Z9darWNw0Mue7m9N1lVdLwyIGggKhu7QsOUmIEUxiqJVXcwgoosw+N4fG8eyHxlyxqwQg7YnHmeRaR0=
 infrastructure-as-code-2nd-edition:
   title: Infrastructure as Code
   subtitle: Dynamic Systems for the Cloud Age
@@ -138,8 +138,8 @@ infrastructure-as-code-2nd-edition:
   publisher: oreilly
   future: true
   url: https://www.oreilly.com/library/view/infrastructure-as-code/9781098114664/
+  img: https://learning.oreilly.com/library/cover/9781098114664/2000w/
   isbn: 9781098114671
-  img: https://learning.oreilly.com/library/cover/9781098114664/250w/
 building-secure-and-reliable-systems:
   title: Building Secure and Reliable Systems
   subtitle: Best Practices for Designing, Implementing, and Maintaining Systems
@@ -148,10 +148,10 @@ building-secure-and-reliable-systems:
     year: 2020
     month: 3
   url: https://www.oreilly.com/library/view/building-secure-and/9781492083115/
+  img: https://learning.oreilly.com/library/cover/9781492083115/2000w/
   isbn: 9781492083122
   asin: 1492083127
   pages: 558
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=qGhDphhDscEUH1p5mL1Hm6LCadLuj5aDKzja95AKoUTP2ebmF8OXJkl9UY9CQm3jgdRufvnJTGumneyGmIyyqgyaq7oXk1AOMDazrM6bUEk47Zxx3oIQ++WZLl7jHDhSxhE3B5xOurxCpFAUrzGSrIwrNXXTk3zdoplT/Ha7Tlk=
 cloud-native-data-center-networking:
   title: Cloud Native Data Center Networking
   subtitle: Architecture, Protocols, and Tools
@@ -160,10 +160,10 @@ cloud-native-data-center-networking:
     year: 2019
     month: 11
   url: https://www.oreilly.com/library/view/cloud-native-data/9781492045595/
+  img: https://learning.oreilly.com/library/cover/9781492045595/2000w/
   isbn: 9781492045601
   asin: 1492045608
   pages: 486
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=ZHZj29xykX6mJaEWBFKAj+4HWHiqRttdoUM/vBUglCDCzdYk6hDgo5wAltM3UY/FyZIYBGOMEbmJiGV8/yiAD5knT1lfQPuLg3qo6iDCq3WSUJw8vqse0ZRxhDBKjwCDSOya2FPdy/74BMqRX0kPfx+VytYI8saxmgaEHwQAbQs=
 managing-kubernetes:
   title: Managing Kubernetes
   subtitle: Operating Kubernetes Clusters in the Real World
@@ -172,10 +172,10 @@ managing-kubernetes:
     year: 2018
     month: 11
   url: https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/
+  img: https://learning.oreilly.com/library/cover/9781492033905/2000w/
   isbn: 9781492033912
   asin: 149203391X
   pages: 188
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=uHPMaKxhVJRdb+si83fFpej7NV6dHndbcLd3PQ841YfQvQenAHBMfWCSa27Btij8LUnO30UijIxbQlGiOkiW5r9D9qyjrulHwyWpp4JrSxeDOasMOSTL6r63tkIEioYgzKkhRTBSLAyZgMbtzUf6dgfaHWxHKcaZTQU6jLv9qBQ=
 cloud-native:
   title: Cloud Native
   subtitle: Using Containers, Functions, and Data to Build Next-Generation Applications
@@ -184,10 +184,10 @@ cloud-native:
     year: 2019
     month: 8
   url: https://www.oreilly.com/library/view/cloud-native/9781492053811/
+  img: https://learning.oreilly.com/library/cover/9781492053811/2000w/
   isbn: 9781492053828
   asin: 1492053821
   pages: 232
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=v1t/z3r8KQALb35oH76EbwWiDciFtpfJKWbD1tOa2qO9B+UO/yOLVLd3VEz8oAUWXOUOzpvuyi5KVkslpfS046Lzgs/CFnd5wO8k/opl1JKJ4F+9qO3TffJiS7uN/6E/UrhQp38siaO3mWY0BmH0h2bnF+k+LpRiQSK2hOwCG6s=
 cloud-native-transformation:
   title: Cloud Native Transformation
   subtitle: Practical Patterns for Innovation
@@ -196,10 +196,10 @@ cloud-native-transformation:
     year: 2019
     month: 12
   url: https://www.oreilly.com/library/view/cloud-native-transformation/9781492048893/
+  img: https://learning.oreilly.com/library/cover/9781492048893/2000w/
   isbn: 9781492048909
   asin: B082FPZFND
   pages: 540
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=wnjEZ4k7icb18a+Vlv7QwZujGY0uDiLzNgg+NgKzJUHE1ljNT/+IvHjfbkNdFTPQHRB4PLFqa2KMaApQu2fLyApmPf2Ks9nb/g294z/cvya8lTi0ROGV4jnefZ5DriPCaBpe7XZ2bWGeu1S3SlQPuw/y2o6ywpYo/4AxKHYKrjA=
 monolith-to-microservices:
   title: Monolith to Microservices
   subtitle: Evolutionary Patterns to Transform Your Monolith
@@ -208,10 +208,10 @@ monolith-to-microservices:
     year: 2019
     month: 11
   url: https://www.oreilly.com/library/view/monolith-to-microservices/9781492047834/
+  img: https://learning.oreilly.com/library/cover/9781492047834/2000w/
   isbn: 9781492047841
   asin: 1492047848
   pages: 272
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=QOtq+vdJn4G43TBEXBVwXa6JrIJVaTaRc3PYbd/HOgbB2d0yn/1/96IE68vL9TPmTl0FatJXibo3kLf+kDE/sczC198vWo05d5Fl+YgLtsCg9pnvsrSXVTX6UuoTqrv00+/cPJZq3emYdIpO6RI+eF84xRqgd2TVSnd7yUbGMyk=
 learning-coredns:
   title: Learning CoreDNS
   subtitle: Configuring DNS for Cloud Native Environments
@@ -220,10 +220,10 @@ learning-coredns:
     year: 2019
     month: 9
   url: https://www.oreilly.com/library/view/learning-coredns/9781492047957/
+  img: https://learning.oreilly.com/library/cover/9781492047957/2000w/
   isbn: 9781492047964
   asin: 1492047961
   pages: 206
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=EjTrQDyZwCLSLJNpWnq9ApzyLQGS1Kp+5nB+5pbIqYNXrQhp6NMmXV7oMzvHj7j6YVO7l13apKhzc/rCGFHk1MaelD6SuToQgSCUT17hdLkxw1vGOiO6Y/tNO3Rp9n8U4cd3QpxiiqOpvIeW9iR9QoXkHVD5hHkKlcsJgiPDEck=
 learning-dapr:
   title: Learning Dapr
   subtitle: Building Distributed Cloud Native Applications
@@ -232,10 +232,10 @@ learning-dapr:
     year: 2020
     month: 8
   url: https://www.oreilly.com/library/view/learning-dapr/9781492072416/
+  img: https://learning.oreilly.com/library/cover/9781492072416/2000w/
   isbn: 9781492072423
   asin: 1492072427
   pages: 218
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=t7Th9aEdKgqce6RdI9i3YPVYmLyNBlDkB7hr4w+PCl4W5KpjTccUv70IPRzMKXVM3A1W800lHdAe09vnJT1Zkp8j2dEA4ztL0D7xfz1kX9gQZM5+AElCXCvWnFtV8DsjW1wy8hBvi1BNzEbKA0rZBfXwh9yxkztU+Dvp2k1p5R0=
 grpc-up-and-running:
   title: gRPC Up & Running
   subtitle: Building Cloud Native Applications with Go and Java for Docker and Kubernetes
@@ -244,10 +244,10 @@ grpc-up-and-running:
     year: 2020
     month: 1
   url: https://www.oreilly.com/library/view/grpc-up-and/9781492058328/
+  img: https://learning.oreilly.com/library/cover/9781492058328/2000w/
   isbn: 9781492058335
   asin: 1492058335
   pages: 204
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=QA9KTQQKpIgTgfrttB1PVy7z3ymJCGjoeZ2RGSCEUJZ/IL9IS6O8H6ROMXJM/uu6JtxBwZykjFkHJn2LxCgfNN4swTR5UV80xxiaGup0jZq2Jon+DRA+PRwul12bsUmvVF1RXcSKpyUDqheX0x2+trBMyiDEu9lWZlQlOn4YGM8=
 terraform-up-and-running:
   title: Terraform Up & Running
   subtitle: Writing Infrastructure as Code
@@ -256,10 +256,10 @@ terraform-up-and-running:
     year: 2017
     month: 3
   url: https://www.oreilly.com/library/view/terraform-up-and/9781491977071/
+  img: https://learning.oreilly.com/library/cover/9781491977071/2000w/
   isbn: 9781491977088
   asin: 1491977086
   pages: 206
-  img: https://images-na.ssl-images-amazon.com/images/I/51eFFA5aJ2L._SX379_BO1,204,203,200_.jpg
 terraform-up-and-running-2nd-edition:
   title: Terraform Up & Running
   subtitle: Writing Infrastructure as Code
@@ -269,10 +269,10 @@ terraform-up-and-running-2nd-edition:
     year: 2019
     month: 9
   url: https://www.oreilly.com/library/view/terraform-up/9781492046899/
+  img: https://learning.oreilly.com/library/cover/9781492046899/2000w/
   isbn: 9781492046905
   asin: 1492046906
   pages: 368
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=w/E/JiokzA/xEmy46ydtpqHSNzMkMFDaFCTZvyBJ3KmXVES3pLPK0nrPw5F8hrz4gHmLIej7vCXiLx8mCipi/E/CO0oOwhspDN+lMz1/FtXLNWLuMz3Cqh2GnLh6nh1GXCTXWctMOIyxuWxB/z1zXYZYzRxvngMW4uD0gpHdMBE=
 kubernetes-operators:
   title: Kubernetes Operators
   subtitle: Automating the Container Orchestration Platform
@@ -281,10 +281,10 @@ kubernetes-operators:
     year: 2020
     month: 2
   url: https://www.oreilly.com/library/view/kubernetes-operators/9781492048039/
+  img: https://learning.oreilly.com/library/cover/9781492048039/2000w/
   isbn: 9781492048046
   asin: 1492048046
   pages: 156
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=OykhWPREVvWtbd0xm9KrSa5R3AEJviGtZiNBlejCukPsFFYiqmFYWyNaiTWKNOdI416/tVytuGEC5BX9qE5WnqpCXRCIqOZvk0NSfNPGlO0yqD/u8YwuWfzjLqzBuHsiDmYOmwQxmVTW/XsVrupS12XShK9Uy7Wr/ssfaVoQrQE=
 building-microservices:
   title: Building Microservices
   subtitle: Designing Fine-Grained Systems
@@ -293,10 +293,10 @@ building-microservices:
     year: 2015
     month: 2
   url: https://www.oreilly.com/library/view/building-microservices/9781491950340/
+  img: https://learning.oreilly.com/library/cover/9781491950340/2000w/
   isbn: 9781491950357
   asin: 1491950358
   pages: 280
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=VfWKdHnEOczNpFWSr+UPOTVxEVP4vraHqSS3wzLoZP8rGdUk7jpUpnrAFvxOZK6N399f/nUeFIkWZJ38wJP6x2ITCr4ZiyRjWVBOQjZzoRuVNyA6lEEo43FnX5B1ymuhJFrl1Gsfeae1/lwW9CMlc2yeIYfC57AvnBzVm72qVe0=
 building-microservices-2nd-edition:
   title: Building Microservices
   subtitle: Designing Fine-Grained Systems
@@ -304,8 +304,8 @@ building-microservices-2nd-edition:
   publisher: oreilly
   future: true
   url: https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/
+  img: https://learning.oreilly.com/library/cover/9781492034018/2000w/
   isbn: 9781492034025
-  img: https://learning.oreilly.com/library/cover/9781492034018/250w/
 building-event-driven-microservices:
   title: Building Event-Driven Microservices
   subtitle: Leveraging Organizational Data at Scale
@@ -314,10 +314,10 @@ building-event-driven-microservices:
     year: 2020
     month: 7
   url: https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/
+  img: https://learning.oreilly.com/library/cover/9781492057888/2000w/
   isbn: 9781492057895
   asin: 1492057894
   pages: 324
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=xaJt7GgBcBeSj7pkeXrW+GnU95uX+E86DqvT0MKo8oKNPNYMStntc+sxl+vf2zi22wJDUW2F5HxWmGeEGG3iPmQZm/1G9uD9V56XA/nKitwIxg0C1srMj+vk4BBMr/3ri31fTEiTO6lvVQHLyxPvXUZynZQbynTS+5McLzr9BbU=
 distributed-tracing-in-practice:
   title: Distributed Tracing in Practice
   subtitle: Instrumenting, Analyzing, and Debugging Microservices
@@ -326,10 +326,10 @@ distributed-tracing-in-practice:
     year: 2020
     month: 4
   url: https://www.oreilly.com/library/view/distributed-tracing-in/9781492056621/
+  img: https://learning.oreilly.com/library/cover/9781492056621/2000w/
   isbn: 9781492056638
   asin: 1492056634
   pages: 330
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=hSUjgbVPr+Bg4uP6ndDu1/vFl9XkHBJVo8rAkKTyGsTIyhaXsikWb59WkBC2nNxQTGZHWxgk73vB2qAZuHv69Oy3WXmZfiJtwVaEz0pIK4xRYQp1Y6Av8+Xn6gvruKaZrLv75YHTo7G/5kmMMyMNXrtbmwCyo/ootHWllTzew5A=
 production-ready-microservices:
   title: Production-Ready Microservices
   subtitle: Building Standardized Systems Across an Engineering Organization
@@ -338,10 +338,10 @@ production-ready-microservices:
     year: 2016
     month: 12
   url: https://www.oreilly.com/library/view/production-ready-microservices/9781491965962/
+  img: https://learning.oreilly.com/library/cover/9781491965962/2000w/
   isbn: 9781491965979
   asin: 1491965975
   pages: 172
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=EvzLGrJPxNm8pQF1pLwYUq6HalolTZaoMUuf0zCjf5K5n8Wmi7DKyZsCPPc1s3zaaTtjqHnaiDG9vGAgrudQaCWun3Dw06GBijhtTByKhHCTCQfWk4sbU/GSgjOZdxsATfvMPuV3AeL8TcsqV6iIfTQL+oeQ+1dG9G0ax1A6jTE=
 microservice-architecture:
   title: Microservice Architecture
   subtitle: Aligning Principles, Practices, and Culture
@@ -350,10 +350,10 @@ microservice-architecture:
     year: 2016
     month: 8
   url: https://www.oreilly.com/library/view/microservice-architecture/9781491956328/
+  img: https://learning.oreilly.com/library/cover/9781491956328/2000w/
   isbn: 9781491956250
   asin: 1491956259
   pages: 146
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=fEbzF/3vZABLnnQPO7N6RWhQoPds16BMmMPOqwZYf1IYPbjni3eViQ8PumZJwYV8ObuZeFvU+hw+9rj4epTRYEdcSbzLLYN3ZltjTSv8RI8Xsss7ZaL8+WrQdN+2HrBEGFV3wT+P52LTBjhVUvlRTPLz3w8/iWy8jN/a+BJUwNs=
 building-evolutionary-architectures:
   title: Building Evolutionary Architectures
   subtitle: Support Constant Change
@@ -362,10 +362,10 @@ building-evolutionary-architectures:
     year: 2017
     month: 9
   url: https://www.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/
+  img: https://learning.oreilly.com/library/cover/9781491986356/2000w/
   isbn: 9781491986363
   asin: B075RR1XVG
   pages: 190
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=ra0aOFbgpWgLeUz2ZFPMmuoKIK+NGko7e1JB7ZdIZmfJeBcJP+cK3sXahTY8mYmmZaqYjv43w4TjT5K981IZS3yAOgs4K74tDwx1MY8+8Y3nvHw+j2feJ6Gqvat2onkD3WoQyCY1o40rbzBZJFp/20TQfBEb1PkLLov7SCD4e9Q=
 site-reliability-engineering:
   title: Site Reliability Engineering
   subtitle: How Google Runs Production Systems
@@ -374,18 +374,18 @@ site-reliability-engineering:
     year: 2016
     month: 4
   url: https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/
+  img: https://learning.oreilly.com/library/cover/9781491929117/2000w/
   isbn: 9781491929124
   asin: 149192912X
   pages: 552
-  img: https://cwsimages.ingramcontent.com/cdsImages/imageloader?size=640&id=Y6zTgHqAVu3Gd8Nf3j0SxqFiGPcyYq01azux3ucIRJ3frnera5rSNMHfHwKC/avYidxTd0ZEY3UJe28f8ga+px28lcJLZGomvtojhVH6q1IsQsneEUq63L/eg1Wy+wT90qX90bQPDFeLtFKzg13ybK0QU+f6MOfJuYvD7KaeTkY=
 microservices-up-and-running:
   title: Microservices Up & Running
   subtitle: A Step-by-Step Guide to Building a Microservice Architecture
   publisher: oreilly
   future: true
   url: https://www.oreilly.com/library/view/microservices-up-and/9781492075448/
+  img: https://learning.oreilly.com/library/cover/9781492075448/2000w/
   isbn: 9781492075455
-  img: https://learning.oreilly.com/library/cover/9781492075448/250w/
 kubernetes-in-action:
   title: Kubernetes in Action
   publisher: manning
