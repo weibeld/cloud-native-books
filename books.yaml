@@ -796,3 +796,12 @@
   url: https://www.manning.com/books/graphql-in-action
   isbn: 9781617295683
   img: https://images.manning.com/book/c/8ce672a-7642-4ec1-a499-a8d0bbbd467e/Buna-GraphQL-MEAP-HI.png
+-
+  id: kubernetes-native-microservices
+  title: Kubernetes Native Microservices
+  subtitle: With Quarkus and MicroProfile
+  publisher: manning
+  future: true
+  url: https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile
+  isbn: 9781617298653
+  img: https://images.manning.com/book/7/9ecce48-ff14-436f-b300-281cbd109d9c/Clingan-KNM-MEAP-HI.png
