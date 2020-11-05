@@ -3,7 +3,7 @@
   title: Kubernetes Up & Running
   subtitle: Dive into the Future of Infrastructure
   publisher: oreilly
-  date:
+  released:
     year: 2017
     month: 9
   url: https://www.oreilly.com/library/view/kubernetes-up-and/9781491935668/
@@ -17,7 +17,7 @@
   subtitle: Dive into the Future of Infrastructure
   edition: 2
   publisher: oreilly
-  date:
+  released:
     year: 2019
     month: 10
   url: https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523/
@@ -30,7 +30,7 @@
   title: Kubernetes Best Practices
   subtitle: Blueprints for Building Successful Applications on Kubernetes
   publisher: oreilly
-  date:
+  released:
     year: 2019
     month: 11
   url: https://www.oreilly.com/library/view/kubernetes-best-practices/9781492056461/
@@ -43,7 +43,7 @@
   title: Kubernetes Patterns
   subtitle: Reusable Elements for Designing Cloud-Native Applications
   publisher: oreilly
-  date:
+  released:
     year: 2019
     month: 4
   url: https://www.oreilly.com/library/view/kubernetes-patterns/9781492050278/
@@ -56,7 +56,7 @@
   title: Cloud Native DevOps with Kubernetes
   subtitle: Building, Deploying, and Scaling Modern Applications in the Cloud
   publisher: oreilly
-  date:
+  released:
     year: 2019
     month: 3
   url: https://www.oreilly.com/library/view/cloud-native-devops/9781492040750/
@@ -69,7 +69,7 @@
   title: Programming Kubernetes
   subtitle: Developing Cloud-Native Applications
   publisher: oreilly
-  date:
+  released:
     year:  2019
     month: 7
   url: https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/
@@ -82,7 +82,7 @@
   title: Istio Up & Running
   subtitle: Using a Service Mesh to Connect, Secure, Control, and Observe
   publisher: oreilly
-  date:
+  released:
     year: 2019
     month: 10
   url: https://www.oreilly.com/library/view/istio-up-and/9781492043775/
@@ -95,7 +95,7 @@
   title: Container Security
   subtitle: Fundamental Technology Concepts That Protect Containerized Applications
   publisher: oreilly
-  date:
+  released:
     year: 2020
     month: 4
   url: https://www.oreilly.com/library/view/container-security/9781492056690/
@@ -108,7 +108,7 @@
   title: Cloud Native Infrastructure
   subtitle: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment
   publisher: oreilly
-  date:
+  released:
     year: 2017
     month: 11
   url: https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/
@@ -121,7 +121,7 @@
   title: Designing Distributed Systems
   subtitle: Patterns and Paradigms for Scalable, Reliable Services
   publisher: oreilly
-  date:
+  released:
     year: 2018
     month: 2
   url: https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/
@@ -134,7 +134,7 @@
   title: Infrastructure as Code
   subtitle: Managing Servers in the Cloud
   publisher: oreilly
-  date:
+  released:
     year: 2016
     month: 6
   url: https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/
@@ -148,7 +148,7 @@
   subtitle: Dynamic Systems for the Cloud Age
   edition: 2
   publisher: oreilly
-  future: true
+  released: null
   url: https://www.oreilly.com/library/view/infrastructure-as-code/9781098114664/
   img: https://learning.oreilly.com/library/cover/9781098114664/2000w/
   isbn: 9781098114671
@@ -157,7 +157,7 @@
   title: Building Secure and Reliable Systems
   subtitle: Best Practices for Designing, Implementing, and Maintaining Systems
   publisher: oreilly
-  date:
+  released:
     year: 2020
     month: 3
   url: https://www.oreilly.com/library/view/building-secure-and/9781492083115/
@@ -170,7 +170,7 @@
   title: Cloud Native Data Center Networking
   subtitle: Architecture, Protocols, and Tools
   publisher: oreilly
-  date:
+  released:
     year: 2019
     month: 11
   url: https://www.oreilly.com/library/view/cloud-native-data/9781492045595/
@@ -183,7 +183,7 @@
   title: Managing Kubernetes
   subtitle: Operating Kubernetes Clusters in the Real World
   publisher: oreilly
-  date:
+  released:
     year: 2018
     month: 11
   url: https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/
@@ -196,7 +196,7 @@
   title: Cloud Native
   subtitle: Using Containers, Functions, and Data to Build Next-Generation Applications
   publisher: oreilly
-  date:
+  released:
     year: 2019
     month: 8
   url: https://www.oreilly.com/library/view/cloud-native/9781492053811/
@@ -209,7 +209,7 @@
   title: Cloud Native Transformation
   subtitle: Practical Patterns for Innovation
   publisher: oreilly
-  date:
+  released:
     year: 2019
     month: 12
   url: https://www.oreilly.com/library/view/cloud-native-transformation/9781492048893/
@@ -222,7 +222,7 @@
   title: Monolith to Microservices
   subtitle: Evolutionary Patterns to Transform Your Monolith
   publisher: oreilly
-  date:
+  released:
     year: 2019
     month: 11
   url: https://www.oreilly.com/library/view/monolith-to-microservices/9781492047834/
@@ -235,7 +235,7 @@
   title: Learning CoreDNS
   subtitle: Configuring DNS for Cloud Native Environments
   publisher: oreilly
-  date:
+  released:
     year: 2019
     month: 9
   url: https://www.oreilly.com/library/view/learning-coredns/9781492047957/
@@ -248,7 +248,7 @@
   title: Learning Dapr
   subtitle: Building Distributed Cloud Native Applications
   publisher: oreilly
-  date:
+  released:
     year: 2020
     month: 8
   url: https://www.oreilly.com/library/view/learning-dapr/9781492072416/
@@ -261,7 +261,7 @@
   title: gRPC Up & Running
   subtitle: Building Cloud Native Applications with Go and Java for Docker and Kubernetes
   publisher: oreilly
-  date:
+  released:
     year: 2020
     month: 1
   url: https://www.oreilly.com/library/view/grpc-up-and/9781492058328/
@@ -274,7 +274,7 @@
   title: Terraform Up & Running
   subtitle: Writing Infrastructure as Code
   publisher: oreilly
-  date:
+  released:
     year: 2017
     month: 3
   url: https://www.oreilly.com/library/view/terraform-up-and/9781491977071/
@@ -288,7 +288,7 @@
   subtitle: Writing Infrastructure as Code
   edition: 2
   publisher: oreilly
-  date:
+  released:
     year: 2019
     month: 9
   url: https://www.oreilly.com/library/view/terraform-up/9781492046899/
@@ -301,7 +301,7 @@
   title: Kubernetes Operators
   subtitle: Automating the Container Orchestration Platform
   publisher: oreilly
-  date:
+  released:
     year: 2020
     month: 2
   url: https://www.oreilly.com/library/view/kubernetes-operators/9781492048039/
@@ -314,7 +314,7 @@
   title: Building Microservices
   subtitle: Designing Fine-Grained Systems
   publisher: oreilly
-  date:
+  released:
     year: 2015
     month: 2
   url: https://www.oreilly.com/library/view/building-microservices/9781491950340/
@@ -328,7 +328,7 @@
   subtitle: Designing Fine-Grained Systems
   edition: 2
   publisher: oreilly
-  future: true
+  released: null
   url: https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/
   img: https://learning.oreilly.com/library/cover/9781492034018/2000w/
   isbn: 9781492034025
@@ -337,7 +337,7 @@
   title: Building Event-Driven Microservices
   subtitle: Leveraging Organizational Data at Scale
   publisher: oreilly
-  date:
+  released:
     year: 2020
     month: 7
   url: https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/
@@ -350,7 +350,7 @@
   title: Distributed Tracing in Practice
   subtitle: Instrumenting, Analyzing, and Debugging Microservices
   publisher: oreilly
-  date:
+  released:
     year: 2020
     month: 4
   url: https://www.oreilly.com/library/view/distributed-tracing-in/9781492056621/
@@ -363,7 +363,7 @@
   title: Production-Ready Microservices
   subtitle: Building Standardized Systems Across an Engineering Organization
   publisher: oreilly
-  date:
+  released:
     year: 2016
     month: 12
   url: https://www.oreilly.com/library/view/production-ready-microservices/9781491965962/
@@ -376,7 +376,7 @@
   title: Microservice Architecture
   subtitle: Aligning Principles, Practices, and Culture
   publisher: oreilly
-  date:
+  released:
     year: 2016
     month: 8
   url: https://www.oreilly.com/library/view/microservice-architecture/9781491956328/
@@ -389,7 +389,7 @@
   title: Building Evolutionary Architectures
   subtitle: Support Constant Change
   publisher: oreilly
-  date:
+  released:
     year: 2017
     month: 9
   url: https://www.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/
@@ -402,7 +402,7 @@
   title: Site Reliability Engineering
   subtitle: How Google Runs Production Systems
   publisher: oreilly
-  date:
+  released:
     year: 2016
     month: 4
   url: https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/
@@ -415,7 +415,7 @@
   title: Microservices Up & Running
   subtitle: A Step-by-Step Guide to Building a Microservice Architecture
   publisher: oreilly
-  future: true
+  released: null
   url: https://www.oreilly.com/library/view/microservices-up-and/9781492075448/
   img: https://learning.oreilly.com/library/cover/9781492075448/2000w/
   isbn: 9781492075455
@@ -423,7 +423,7 @@
   id: kubernetes-in-action
   title: Kubernetes in Action
   publisher: manning
-  date:
+  released:
     year: 2017
     month: 12
   url: https://www.manning.com/books/kubernetes-in-action
@@ -436,7 +436,7 @@
   title: Kubernetes in Action
   edition: 2
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/kubernetes-in-action-second-edition
   isbn: 9781617297618
   img: https://images.manning.com/book/2/7d2e426-8971-4726-b0ff-71fd92ee86b2/Luksa-Kubernetes-2ed-MEAP-HI.png
@@ -444,7 +444,7 @@
   id: core-kubernetes
   title: Core Kubernetes
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/core-kubernetes
   isbn: 9781617297557
   img: https://images.manning.com/book/a/0d353d6-75a3-4ca0-a0cb-adf180b820e8/Vyas-CoreK-MEAP-HI.png
@@ -453,7 +453,7 @@
   title: GitOps and Kubernetes
   subtitle: Continuous Deployment with Argo CD, Jenkins X, and Flux
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/gitops-and-kubernetes
   isbn: 9781617297274
   img: https://images.manning.com/book/7/9644052-32e5-48cd-ba4a-fbde0dd25ea0/Yuen-GitOps-MEAP-HI.png
@@ -461,7 +461,7 @@
   id: docker-in-action
   title: Docker in Action
   publisher: manning
-  date:
+  released:
     year: 2016
     month: 3
   url: https://www.manning.com/books/docker-in-action
@@ -474,7 +474,7 @@
   title: Docker in Action
   edition: 2
   publisher: manning
-  date:
+  released:
     year: 2019
     month: 10
   url: https://www.manning.com/books/docker-in-action-second-edition
@@ -486,7 +486,7 @@
   id: istio-in-action
   title: Istio in Action
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/istio-in-action
   isbn: 9781617295829
   img: https://images.manning.com/book/2/af4f618-f704-4bf5-9617-3e2db3e43e58/Psta-Istio-MEAP-HI.png
@@ -494,7 +494,7 @@
   id: microservices-patterns
   title: Microservices Patterns
   publisher: manning
-  date:
+  released:
     year: 2018
     month: 10
   url: https://www.manning.com/books/microservices-patterns
@@ -506,7 +506,7 @@
   id: docker-in-practice
   title: Docker in Practice
   publisher: manning
-  date:
+  released:
     year: 2016
     month: 4
   url: https://www.manning.com/books/docker-in-practice
@@ -519,7 +519,7 @@
   title: Docker in Practice
   edition: 2
   publisher: manning
-  date:
+  released:
     year: 2019
     month: 2
   url: https://www.manning.com/books/docker-in-practice-second-edition
@@ -531,7 +531,7 @@
   id: learn-kubernetes-in-a-month-of-lunches
   title: Learn Kubernetes in a Month of Lunches
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches
   isbn: 9781617297984
   img: https://images.manning.com/book/e/89b07ec-830f-4720-a9dc-3a1a51cb00b4/Stoneman_Kubernetes_meap.jpg
@@ -539,7 +539,7 @@
   id: learn-docker-in-a-month-of-lunches
   title: Learn Docker in a Month of Lunches
   publisher: manning
-  date:
+  released:
     year: 2020
     month: 6
   url: https://www.manning.com/books/learn-docker-in-a-month-of-lunches
@@ -552,7 +552,7 @@
   title: Bootstrapping Microservices with Docker, Kubernetes, and Terraform
   subtitle: A project-based guide
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform
   isbn: 9781617297212
   img: https://images.manning.com/book/a/6ed9b90-1043-40a9-9d91-d516c75a9196/Davis-BM-MEAP-HI.png
@@ -560,7 +560,7 @@
   id: terraform-in-action
   title: Terraform in Action
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/terraform-in-action
   isbn: 9781617296895
   img: https://images.manning.com/book/8/6c58f96-9981-4e1a-acd3-22ce347f78e5/Winkler-Terraform-MEAP-HI.png
@@ -568,7 +568,7 @@
   id: microservices-security-in-action
   title: Microservices Security in Action
   publisher: manning
-  date:
+  released:
     year: 2020
     month: 7
   url: https://www.manning.com/books/microservices-security-in-action
@@ -580,7 +580,7 @@
   id: api-design-patterns
   title: API Design Patterns
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/api-design-patterns
   isbn: 9781617295850
   img: https://images.manning.com/book/1/2f9d337-ea45-4998-a4a2-3b9b659713d5/Geewax-API-MEAP-HI.png
@@ -589,7 +589,7 @@
   title: Cloud Native Patterns
   subtitle: Designing change-tolerant software
   publisher: manning
-  date:
+  released:
     year: 2019
     month: 5
   url: https://www.manning.com/books/cloud-native-patterns
@@ -601,7 +601,7 @@
   id: microservices-in-action
   title: Microservices in Action
   publisher: manning
-  date:
+  released:
     year: 2018
     month: 10
   url: https://www.manning.com/books/microservices-in-action
@@ -613,7 +613,7 @@
   id: api-security-in-action
   title: API Security in Action
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/api-security-in-action
   isbn: 9781617296024
   img: https://images.manning.com/book/e/60aa678-5a9e-448f-9c00-69fade852e27/Madden-API-MEAP-HI.png
@@ -621,7 +621,7 @@
   id: the-design-of-web-apis
   title: The Design of Web APIs
   publisher: manning
-  date:
+  released:
     year: 2019
     month: 10
   url: https://www.manning.com/books/the-design-of-web-apis
@@ -633,7 +633,7 @@
   id: go-in-action
   title: Go in Action
   publisher: manning
-  date:
+  released:
     year: 2015
     month: 11
   url: https://www.manning.com/books/go-in-action
@@ -645,7 +645,7 @@
   id: go-in-practice
   title: Go in Practice
   publisher: manning
-  date:
+  released:
     year: 2016
     month: 8
   url: https://www.manning.com/books/go-in-practice
@@ -657,7 +657,7 @@
   id: google-cloud-platform-in-action
   title: Google Cloud Platform in Action
   publisher: manning
-  date:
+  released:
     year: 2018
     month: 8
   url: https://www.manning.com/books/google-cloud-platform-in-action
@@ -669,7 +669,7 @@
   id: amazon-web-services-in-action
   title: Amazon Web Services in Action
   publisher: manning
-  date:
+  released:
     year: 2015
     month: 9
   url: https://www.manning.com/books/amazon-web-services-in-action
@@ -682,7 +682,7 @@
   title: Amazon Web Services in Action
   edition: 2
   publisher: manning
-  date:
+  released:
     year: 2018
     month: 9
   url: https://www.manning.com/books/amazon-web-services-in-action-second-edition
@@ -694,7 +694,7 @@
   id: learn-amazon-web-services-in-a-month-of-lunches
   title: Learn Amazon Web Services in a Month of Lunches
   publisher: manning
-  date:
+  released:
     year: 2017
     month: 8
   url: https://www.manning.com/books/learn-amazon-web-services-in-a-month-of-lunches
@@ -707,7 +707,7 @@
   title: Securing DevOps
   subtitle: Security in the Cloud
   publisher: manning
-  date:
+  released:
     year: 2018
     month: 8
   url: https://www.manning.com/books/securing-devops
@@ -719,7 +719,7 @@
   id: aws-security
   title: AWS Security
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/aws-security
   isbn: 9781617297335
   img: https://images.manning.com/book/9/bd88709-6462-4402-9bcc-f47617198574/Shields-AWS-MEAP-HI.png
@@ -728,7 +728,7 @@
   title: Getting Started with Kubernetes
   subtitle: With examples in Google Kubernetes Engine
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/getting-started-with-kubernetes
   isbn: 9781617297175
   img: https://images.manning.com/book/2/48f5810-c8f7-48ed-a999-07208144d0ea/Denniss-GSK-MEAP-HI.png
@@ -736,7 +736,7 @@
   id: software-telemetry
   title: Software Telemetry
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/software-telemetry
   isbn: 9781617298141
   img: https://images.manning.com/book/3/8bf5b30-7a1e-4e60-9e91-08f8c57c7088/Riedesel-ST-MEAP-HI.png
@@ -744,7 +744,7 @@
   id: unified-logging-with-fluentd
   title: Unified Logging with Fluentd
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/unified-logging-with-fluentd
   isbn: 9781617298356
   img: https://images.manning.com/book/f/c6dd304-445a-49aa-aec9-3b7996d8c537/Wilkins-ULF-MEAP-HI.png
@@ -752,7 +752,7 @@
   id: grokking-streaming-systems
   title: Grokking Streaming Systems
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/grokking-streaming-systems
   isbn: 9781617297304
   img: https://images.manning.com/book/3/687e67a-e542-4b80-9d6d-ac4f0d51de75/Grokking_SS_meap_hires.png
@@ -760,7 +760,7 @@
   id: cloud-operations
   title: Cloud Operations
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/cloud-operations
   isbn: 9781617296833
   img: https://images.manning.com/book/c/1fbdb5e-2490-4c45-a7a3-c27b0dbe7b24/Alessandrini-CO-MEAP-HI.png
@@ -768,7 +768,7 @@
   id: git-in-practice
   title: Git in Practice
   publisher: manning
-  date:
+  released:
     year: 2014
     month: 9
   url: https://www.manning.com/books/git-in-practice
@@ -780,7 +780,7 @@
   id: learn-git-in-a-month-of-lunches
   title: Learn Git in a Month of Lunches
   publisher: manning
-  date:
+  released:
     year: 2015
     month: 9
   url: https://www.manning.com/books/learn-git-in-a-month-of-lunches
@@ -792,7 +792,7 @@
   id: graphql-in-action
   title: GraphQL in Action
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/graphql-in-action
   isbn: 9781617295683
   img: https://images.manning.com/book/c/8ce672a-7642-4ec1-a499-a8d0bbbd467e/Buna-GraphQL-MEAP-HI.png
@@ -801,7 +801,7 @@
   title: Kubernetes Native Microservices
   subtitle: With Quarkus and MicroProfile
   publisher: manning
-  future: true
+  released: null
   url: https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile
   isbn: 9781617298653
   img: https://images.manning.com/book/7/9ecce48-ff14-436f-b300-281cbd109d9c/Clingan-KNM-MEAP-HI.png
